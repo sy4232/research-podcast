@@ -1,0 +1,45 @@
+name: weekly-research-podcast
+
+on:
+  schedule:
+    - cron: '0 22 * * 1'      # 毎週月曜 22:00 UTC（必要に応じて変更）
+  workflow_dispatch: {}        # 手動実行も可能
+
+permissions:
+  contents: write              # state/ と docs/ をコミットするため
+
+concurrency:
+  group: podcast
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PAGES_BASE_URL: ${{ vars.PAGES_BASE_URL }}
+          OPENALEX_MAILTO: ${{ vars.OPENALEX_MAILTO }}
+        run: python run_pipeline.py
+
+      - name: Commit new episode
+        run: |
+          git config user.name  "podcast-bot"
+          git config user.email "podcast-bot@users.noreply.github.com"
+          git add docs/ state/
+          git commit -m "weekly episode $(date -u +%Y-%m-%d)" || echo "no new episode"
+          git push
