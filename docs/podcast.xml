@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Urban Climate Research Digest</title>
+    <link>https://sy4232.github.io/research-podcast</link>
+    <language>ja</language>
+    <description>Urban Climate Research Podcast for Personal Use</description>
+    <itunes:author>sy4232</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Science"/>
+    <item>
+      <title>2026-06-16 のダイジェスト：A Methodological Framework for Blockchai ほか1本</title>
+      <description>今回の論文：
+・A Methodological Framework for Blockchain-Enabled Peer-to-Peer Solar Trading to Mitigate Urban Heat Islands: A Lagos, Togo Case Study (2021–2026)
+・A Methodological Framework for Blockchain-Enabled Peer-to-Peer Solar Trading to Mitigate Urban Heat Islands: A Lagos, Togo Case Study (2021–2026)</description>
+      <pubDate>Tue, 16 Jun 2026 05:11:45 +0000</pubDate>
+      <enclosure url="https://sy4232.github.io/research-podcast/audio/ep-2026-06-16.mp3" length="3068877" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-2026-06-16.mp3</guid>
+      <itunes:duration>00:06:19</itunes:duration>
+    </item>
+  </channel>
+</rss>
