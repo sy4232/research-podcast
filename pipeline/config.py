@@ -18,10 +18,13 @@ TOPICS = [
 ]
 
 # ---- 収集・選別パラメータ ----
-SINCE_DAYS = 1          # 直近何日分を対象にするか（週次なら7）
+SINCE_DAYS = 3          # 直近何日分を「新着」とみなすか（毎日実行＋索引の遅れを考慮し3日。重複はseen.jsonで防ぐ）
 PER_TOPIC = 20          # 各クエリで取得する最大件数
-EPISODES_PER_RUN = 3    # 1エピソードに入れる論文本数（多声TTSは1本ずつ合成して連結）
+EPISODES_PER_RUN = 3    # 1エピソードに入れる論文本数（不足分は下記の高被引用論文で補充）
 OPENALEX_MAILTO = os.environ.get("OPENALEX_MAILTO", "you@example.com")  # polite pool用
+
+# ---- フォールバック（新着が3本に満たない日は、直近N年の高被引用論文で補う）----
+FALLBACK_YEARS = 4      # 高被引用論文をさかのぼる年数
 
 # ---- LLM（要約・台本生成・選別）----
 ANTHROPIC_MODEL = "claude-opus-4-6"   # コスト優先なら "claude-sonnet-4-6"

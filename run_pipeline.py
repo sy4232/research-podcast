@@ -23,18 +23,34 @@ def main():
     seen = set(_load(config.SEEN_PATH, []))
     episodes = _load(config.EPISODES_PATH, [])  # 新しい順
 
-    print("① 収集"); papers = fetch.fetch_recent(seen)
-    if not papers:
-        print("新規論文なし。終了。"); return
+    target = config.EPISODES_PER_RUN
 
-    print("② 選別"); chosen = select.select_top(papers)
+    print("① 収集（新着）"); new_papers = fetch.fetch_recent(seen)
+    print("② 選別（新着）")
+    chosen = select.select_top(new_papers, k=target) if new_papers else []
+    for p in chosen:
+        p["kind"] = "new"
+
+    # 新着が target 本に満たなければ、直近FALLBACK_YEARS年の高被引用論文で補充
+    if len(chosen) < target:
+        need = target - len(chosen)
+        print(f"① 収集（フォールバック：高被引用を{need}本）")
+        exclude = set(seen) | {p["id"] for p in chosen}
+        cited = fetch.fetch_top_cited(exclude, need)
+        print("② 選別（フォールバック）")
+        picked = select.select_top(cited, k=need) if cited else []
+        for p in picked:
+            p["kind"] = "highly_cited"
+        chosen += picked
+
     if not chosen:
-        print("採用論文なし。終了。"); return
+        print("候補なし（新着も高被引用も0）。終了。"); return
 
     print("③④⑤ 台本＋音声")
     segments, titles = [], []
     for i, p in enumerate(chosen):
-        print(f"   - {p['title'][:60]}")
+        tag = "新着" if p.get("kind") == "new" else f"被引用{p.get('cited_by_count', 0)}"
+        print(f"   - [{tag}] {p['title'][:55]}")
         transcript = script.make_dialogue(p, intro=(i == 0))
         pcm, rate = tts.synth_dialogue(transcript)
         segments.append((pcm, rate))
@@ -46,10 +62,15 @@ def main():
     print("⑤b MP3組み立て")
     duration = audio.build_episode_mp3(segments, out_path)
 
+    def _line(p):
+        if p.get("kind") == "highly_cited":
+            return f"・[注目・被引用{p.get('cited_by_count', 0)}] {p['title']}"
+        return f"・[新着] {p['title']}"
+
     ep = {
         "title": f"{today} のダイジェスト：{titles[0][:40]} ほか{len(titles)-1}本"
                  if len(titles) > 1 else f"{today}：{titles[0][:50]}",
-        "desc": "今回の論文：\n" + "\n".join(f"・{t}" for t in titles),
+        "desc": "今回の論文：\n" + "\n".join(_line(p) for p in chosen),
         "date": datetime.datetime.now(datetime.timezone.utc).isoformat(),
         "file": fname,
         "bytes": os.path.getsize(out_path),

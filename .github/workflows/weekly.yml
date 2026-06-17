@@ -1,8 +1,8 @@
-name: weekly-research-podcast
+name: daily-research-podcast
 
 on:
   schedule:
-    - cron: '0 22 * * 1'      # 毎週月曜 22:00 UTC（必要に応じて変更）
+    - cron: '0 22 * * *'      # 毎日 22:00 UTC（必要に応じて変更）
   workflow_dispatch: {}        # 手動実行も可能
 
 permissions:
@@ -41,5 +41,5 @@ jobs:
           git config user.name  "podcast-bot"
           git config user.email "podcast-bot@users.noreply.github.com"
           git add docs/ state/
-          git commit -m "weekly episode $(date -u +%Y-%m-%d)" || echo "no new episode"
+          git commit -m "daily episode $(date -u +%Y-%m-%d)" || echo "no new episode"
           git push

@@ -18,10 +18,17 @@ def make_dialogue(paper, intro=False):
         f"最初の数行で番組名「{config.PODCAST_TITLE}」と今回の概要に軽く触れてから本題へ。\n"
         if intro else ""
     )
+    if paper.get("kind") == "highly_cited":
+        context_line = (
+            f"※この論文は新着ではなく、直近数年で被引用数{paper.get('cited_by_count', 0)}回の"
+            f"よく引用されている重要論文です。なぜ広く引用され影響を持つのかにも触れてください。\n"
+        )
+    else:
+        context_line = "※この論文は直近の新着論文です。新規性がどこにあるかを明確に。\n"
     prompt = (
         f"次の論文を、2人のホスト（{a}=聞き手、{b}=解説役）の日本語対話にしてください。\n"
         f"4〜6分相当（おおよそ900〜1300字）。冗長な相槌は避け、中身を濃く。\n"
-        f"{intro_line}"
+        f"{context_line}{intro_line}"
         f"出力は各行『{a}: …』または『{b}: …』の形式のみ。見出しや注釈は不要。\n\n"
         f"# 論文\nタイトル: {paper['title']}\n掲載: {paper.get('venue')}\n"
         f"DOI: {paper.get('doi')}\n要旨: {paper['abstract']}"
