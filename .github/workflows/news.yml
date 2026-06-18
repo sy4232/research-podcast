@@ -1,15 +1,15 @@
-name: papers-qa-podcast
+name: policy-watch-podcast
 
 on:
   schedule:
-    - cron: '0 22 * * *'      # 毎日 22:00 UTC（論文Q&A）
+    - cron: '0 2 * * *'       # 毎日 02:00 UTC（論文版と4時間ずらし）
   workflow_dispatch: {}
 
 permissions:
   contents: write
 
 concurrency:
-  group: feed                 # ★政策ウォッチと同じグループ＝同時実行を直列化
+  group: feed                 # ★論文版と同じグループ＝同時実行を直列化
   cancel-in-progress: false
 
 jobs:
@@ -23,18 +23,17 @@ jobs:
         with: { python-version: '3.12' }
       - name: Install deps
         run: pip install -r requirements.txt
-      - name: Run papers pipeline
+      - name: Run policy-watch pipeline
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           PAGES_BASE_URL: ${{ vars.PAGES_BASE_URL }}
-          OPENALEX_MAILTO: ${{ vars.OPENALEX_MAILTO }}
-        run: python run_pipeline.py
+        run: python run_news.py
       - name: Commit new episode
         run: |
           git config user.name  "podcast-bot"
           git config user.email "podcast-bot@users.noreply.github.com"
           git add docs/ state/
-          git commit -m "papers episode $(date -u +%Y-%m-%d)" || { echo "no new episode"; exit 0; }
+          git commit -m "policy-watch episode $(date -u +%Y-%m-%d)" || { echo "no new episode"; exit 0; }
           git pull --rebase --autostash origin main || true
           git push

@@ -1,41 +1,47 @@
-"""③④ 要約＋台本：論文ごとに日本語の2人対話台本を生成する。"""
+"""③④ 論文台本：学会の質疑応答形式（発表者プレゼン＋批判的な討論者のQ&A）を日本語で生成。"""
 import anthropic
 from . import config
 
 client = anthropic.Anthropic()
 
 SYSTEM = (
-    "あなたは都市気候の専門知識を持つ科学ポッドキャストの構成作家です。"
-    "聴き手は同分野の博士課程研究者。専門用語は残しつつ、なぜ重要か・既存研究との差分・"
-    "手法の妥当性・限界を、自然な日本語の会話で伝えます。"
+    "あなたは都市気候系の国際学会で、鋭い洞察で知られる座長兼ディスカッサントの構成を担う作家です。"
+    "登壇者の発表のあと、討論者が研究の核心・前提・限界を批判的に突く、密度の高い質疑を日本語で構成します。"
 )
 
 
-def make_dialogue(paper, intro=False):
-    """論文1本ぶんの対話台本（『あかり: …』『けんた: …』の行のみ）を返す。"""
-    a, b = config.HOST_A_NAME, config.HOST_B_NAME
-    intro_line = (
-        f"最初の数行で番組名「{config.PODCAST_TITLE}」と今回の概要に軽く触れてから本題へ。\n"
-        if intro else ""
-    )
+def make_qa(paper, intro=False):
+    """論文1本ぶんの『発表＋批判的質疑』台本（話者行のみ）を返す。約8分＝2000〜2400字。"""
+    pres, _ = config.PAPER_PRESENTER
+    disc, _ = config.PAPER_DISCUSSANT
+    cites = paper.get("cited_by_count", 0)
     if paper.get("kind") == "highly_cited":
-        context_line = (
-            f"※この論文は新着ではなく、直近数年で被引用数{paper.get('cited_by_count', 0)}回の"
-            f"よく引用されている重要論文です。なぜ広く引用され影響を持つのかにも触れてください。\n"
+        framing = (
+            f"これは新着ではなく直近{config.FALLBACK_YEARS}年で被引用数{cites}回の重要論文。"
+            "なぜ広く引用され影響力を持つのか、その上で見落とされがちな弱点は何かを討論者が突くこと。"
         )
     else:
-        context_line = "※この論文は直近の新着論文です。新規性がどこにあるかを明確に。\n"
+        framing = "これは最新の新着論文。新規性の核がどこにあるかを明確にしたうえで、その新規性の妥当性を討論者が検証すること。"
+    intro_line = (
+        f"冒頭で番組名「{config.PODCAST_TITLE}」と本日の論文タイトルに一言触れてから発表に入る。\n"
+        if intro else ""
+    )
     prompt = (
-        f"次の論文を、2人のホスト（{a}=聞き手、{b}=解説役）の日本語対話にしてください。\n"
-        f"4〜6分相当（おおよそ900〜1300字）。冗長な相槌は避け、中身を濃く。\n"
-        f"{context_line}{intro_line}"
-        f"出力は各行『{a}: …』または『{b}: …』の形式のみ。見出しや注釈は不要。\n\n"
+        f"次の論文について、学会の質疑応答形式の日本語台本を作ってください。\n"
+        f"登場人物は2名：『{pres}』（論文の著者になりきって発表・応答）と『{disc}』（批判的洞察に長けた討論者）。\n"
+        f"構成：{intro_line}"
+        f"(1){pres}が研究の動機・手法・主要な結果を3〜4分相当で発表 →"
+        f"(2){disc}が前提・手法の妥当性・データやベースラインの限界・一般化可能性・反証可能性などを"
+        f"鋭く問い、{pres}が誠実に応答する質疑を3〜4分相当。\n"
+        f"討論者は遠慮せず核心を突くが、フェアで建設的に。専門用語は残し、中身を濃く。全体で約2000〜2400字。\n"
+        f"{framing}\n"
+        f"出力は各行『{pres}: …』または『{disc}: …』の形式のみ。見出し・ト書き・注釈は書かない。\n\n"
         f"# 論文\nタイトル: {paper['title']}\n掲載: {paper.get('venue')}\n"
         f"DOI: {paper.get('doi')}\n要旨: {paper['abstract']}"
     )
     msg = client.messages.create(
         model=config.ANTHROPIC_MODEL,
-        max_tokens=2500,
+        max_tokens=4000,
         system=SYSTEM,
         messages=[{"role": "user", "content": prompt}],
     )
