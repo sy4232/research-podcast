@@ -49,6 +49,7 @@ TOPICS = [
 ]
 SINCE_DAYS = 3              # 「新着」とみなす直近日数（重複はseen.jsonで防ぐ）
 PER_TOPIC = 20             # 各クエリ最大取得数
+OPENALEX_MAILTO = os.environ.get("OPENALEX_MAILTO", "you@example.com")  # OpenAlex polite pool用
 EPISODES_PER_RUN = 3      # 1エピソードの論文本数（不足分は高被引用で補充）
 FALLBACK_YEARS = 4        # フォールバック：直近N年の高被引用論文
 
