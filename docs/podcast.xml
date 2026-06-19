@@ -9,18 +9,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Science"/>
     <item>
-      <title>🏛️ 政策ウォッチ｜2026-06-18：Urbanization Boosts Heat , Rain Risks in ほか</title>
-      <description>今日の都市気候・政策ウォッチ：
-・Urbanization Boosts Heat , Rain Risks in Greater Bay Area（miragenews.com）
-・White Roofs , Parks Cool Cities , Cant Stop Global Heat（miragenews.com）
-・El calor como elemento de diseño : árboles , suelo y corredores de viento como infraestructura de refrigeración（archdaily.cl）
-・ludhiana to become heat resilient | Ludhiana News（timesofindia.indiatimes.com）
-・Eastern Brooklyn Residents Are at Risk For Heat - Related Deaths（bkreader.com, citylimits.org）</description>
-      <pubDate>Thu, 18 Jun 2026 04:32:42 +0000</pubDate>
-      <enclosure url="https://sy4232.github.io/research-podcast/audio/news/news-2026-06-18.mp3" length="3669477" type="audio/mpeg"/>
-      <guid isPermaLink="false">news-news-2026-06-18.mp3</guid>
-      <itunes:duration>00:07:44</itunes:duration>
-      <itunes:season>2</itunes:season>
+      <title>🎓 論文Q&amp;A｜2026-06-19：Identifying Spatial Heterogeneity  ほか2本</title>
+      <description>批判的な質疑応答で読み解く今回の論文：
+・[新着] Identifying Spatial Heterogeneity in LCZ Impacts on SUHII and Corresponding Planning Strategies Using Coupled Spatial Autocorrelation and GWR Models: A Case Study of Berlin
+・[新着] Area-adjusted influence of built-up pattern on urban land surface temperature in an arid landscape
+・[新着] Urban ponds as nature-based solutions for heat mitigation and temperature regulation in highly urbanised regions</description>
+      <pubDate>Fri, 19 Jun 2026 00:08:41 +0000</pubDate>
+      <enclosure url="https://sy4232.github.io/research-podcast/audio/papers/papers-2026-06-19.mp3" length="9917853" type="audio/mpeg"/>
+      <guid isPermaLink="false">papers-papers-2026-06-19.mp3</guid>
+      <itunes:duration>00:21:00</itunes:duration>
+      <itunes:season>1</itunes:season>
     </item>
   </channel>
 </rss>
