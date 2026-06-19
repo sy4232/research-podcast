@@ -9,6 +9,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Science"/>
     <item>
+      <title>🎓 論文Q&amp;A｜2026-06-19：Beyond the riverbank: deep learnin ほか2本</title>
+      <description>批判的な質疑応答で読み解く今回の論文：
+・[新着] Beyond the riverbank: deep learning and individual conditional expectation for geospatial assessment of urban river cooling
+・[新着] Variations in Vegetation Cooling Efficiency Across 20 Major Cities Worldwide: The Interplay of Built-Up Fraction and Surface Properties
+・[新着] Impact of sky view factor on multimodal physiological responses: integrating EEG, heart rate, and thermal sensation in urban landscapes</description>
+      <pubDate>Fri, 19 Jun 2026 23:13:39 +0000</pubDate>
+      <enclosure url="https://sy4232.github.io/research-podcast/audio/papers/papers-2026-06-19.mp3" length="9760389" type="audio/mpeg"/>
+      <guid isPermaLink="false">papers-papers-2026-06-19.mp3</guid>
+      <itunes:duration>00:20:55</itunes:duration>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
       <title>🏛️ 政策ウォッチ｜2026-06-19：Energy savings performance contracts off ほか</title>
       <description>今日の都市気候・政策ウォッチ：
 ・Energy savings performance contracts offer a path to building upgrades when city budgets are tight（Smart Cities Dive - Latest News）
