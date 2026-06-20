@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "title": "🎓 論文Q&A｜2026-06-20：Beyond the riverbank: deep learnin ほか2本",
+    "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] Beyond the riverbank: deep learning and individual conditional expectation for geospatial assessment of urban river cooling\n・[新着] Variations in Vegetation Cooling Efficiency Across 20 Major Cities Worldwide: The Interplay of Built-Up Fraction and Surface Properties\n・[新着] Urban thermal inequity: Advancing thermal justice transitions for vulnerable low-income populations",
+    "date": "2026-06-20T23:25:34.376579+00:00",
+    "audio_rel": "audio/papers/papers-2026-06-20.mp3",
+    "file": "papers-2026-06-20.mp3",
+    "bytes": 10318965,
+    "duration": 1302.52,
+    "guid": "papers-papers-2026-06-20.mp3",
+    "series": "🎓 論文Q&A",
+    "season": 1,
+    "paper_ids": [
+      "https://openalex.org/W7164991118",
+      "https://openalex.org/W7165028005",
+      "https://openalex.org/W7165207901"
+    ]
+  }
+]
