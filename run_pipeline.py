@@ -4,7 +4,8 @@ from pipeline import config, fetch, select, script, tts, store
 
 
 def main():
-    seen = set(store.load(config.SEEN_PATH, []))
+    # 重複防止：seen.json と「配信済みエピソードに記録された論文ID」の両方を除外対象にする
+    seen = set(store.load(config.SEEN_PATH, [])) | store.published_values("paper_ids")
     target = config.EPISODES_PER_RUN
 
     print("① 収集（新着）"); new_papers = fetch.fetch_recent(seen)
@@ -55,6 +56,7 @@ def main():
         series=config.PAPER_PREFIX, season=config.PAPER_SEASON,
         date_iso=datetime.datetime.now(datetime.timezone.utc).isoformat(),
         guid=f"papers-{fname}",
+        meta={"paper_ids": [p["id"] for p in chosen]},
     )
 
     seen.update(p["id"] for p in chosen)

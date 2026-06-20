@@ -4,7 +4,8 @@ from pipeline import config, news_fetch, news_script, tts, store
 
 
 def main():
-    seen = set(store.load(config.SEEN_NEWS_PATH, []))
+    # 重複防止：seen_news.json と「配信済みエピソードに記録された記事URL」の両方を除外
+    seen = set(store.load(config.SEEN_NEWS_PATH, [])) | store.published_values("story_urls")
 
     print("① 収集（ニュース/政策）"); cands = news_fetch.fetch_news(seen)
     if not cands:
@@ -37,6 +38,7 @@ def main():
         desc=desc, series=config.NEWS_PREFIX, season=config.NEWS_SEASON,
         date_iso=datetime.datetime.now(datetime.timezone.utc).isoformat(),
         guid=f"news-{fname}",
+        meta={"story_urls": [u for s in stories for u in s["urls"] if u]},
     )
 
     # 取り上げた話題のURLを既出として記録（毎日同じ報道の繰り返しを防ぐ）

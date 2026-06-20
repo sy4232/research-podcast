@@ -17,8 +17,17 @@ def save(path, obj):
         json.dump(obj, f, ensure_ascii=False, indent=2)
 
 
+def published_values(key):
+    """過去の全エピソードから、指定キー（例 'paper_ids' / 'story_urls'）の値を集合で返す。
+    episodes.json は購読フィードの元データとして確実に永続するため、重複防止の信頼できる土台になる。"""
+    vals = set()
+    for ep in load(config.EPISODES_PATH, []):
+        vals.update(ep.get(key, []) or [])
+    return vals
+
+
 def publish_episode(segments, audio_dir, audio_subdir, fname, title, desc,
-                    series, season, date_iso, guid):
+                    series, season, date_iso, guid, meta=None):
     """音声を書き出し、共有 episodes.json に追記して単一フィードを再生成する。"""
     os.makedirs(audio_dir, exist_ok=True)
     out_path = os.path.join(audio_dir, fname)
@@ -36,6 +45,8 @@ def publish_episode(segments, audio_dir, audio_subdir, fname, title, desc,
         "series": series,
         "season": season,
     }
+    if meta:
+        ep.update(meta)   # 例: paper_ids / story_urls（重複防止の記録）
     episodes = load(config.EPISODES_PATH, [])
     episodes.insert(0, ep)
     # 新しい順に整列（両シリーズ混在のため日付でソート）
