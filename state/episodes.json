@@ -1,5 +1,22 @@
 [
   {
+    "title": "🎓 論文Q&A｜2026-06-23：LES-Based Optimization of Urban Th ほか2本",
+    "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] LES-Based Optimization of Urban Thermal Comfort Using Machine Learning\n・[新着] Integrating Field Measurements and Simulation Analysis to Evaluate the Influence of Urban Building Configuration on Near-Surface Wind Fields\n・[新着] Subambient daytime radiative cooling to mitigate haze-induced amplification of urban heat islands",
+    "date": "2026-06-23T23:22:51.796402+00:00",
+    "audio_rel": "audio/papers/papers-2026-06-23.mp3",
+    "file": "papers-2026-06-23.mp3",
+    "bytes": 9436221,
+    "duration": 1198.76,
+    "guid": "papers-papers-2026-06-23.mp3",
+    "series": "🎓 論文Q&A",
+    "season": 1,
+    "paper_ids": [
+      "https://openalex.org/W7165554993",
+      "https://openalex.org/W7165541001",
+      "https://openalex.org/W7165531389"
+    ]
+  },
+  {
     "title": "🏛️ 政策ウォッチ｜2026-06-23：Virginia approves 6-year, $28.5B infrast ほか",
     "desc": "今日の都市気候・政策ウォッチ：\n・Virginia approves 6-year, $28.5B infrastructure plan（Smart Cities Dive - Latest News）\n・As a Maryland city mulls upzoning, a Realtor association study touts its benefits（Smart Cities Dive - Latest News）\n・7 takeaways from Harvard’s 2026 state of housing report（Smart Cities Dive - Latest News）\n・Lyft charting a path toward more walkable, connected cities（Smart Cities Dive - Latest News）\n・Biking in US cities is getting better, 2026 report says（Smart Cities Dive - Latest News）",
     "date": "2026-06-23T06:03:48.832915+00:00",
