@@ -1,5 +1,22 @@
 [
   {
+    "title": "🎓 論文Q&A｜2026-06-24：Estimating high-resolution albedo  ほか2本",
+    "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] Estimating high-resolution albedo for urban applications\n・[新着] Identifying predictive thresholds and marginal benefit boundaries of urban heat environments via explainable AI\n・[新着] Quantifying the Cooling Effects of Urban Trees on Pedestrian Heat Stress in a Dense Mediterranean Urban Environment",
+    "date": "2026-06-24T23:18:34.909889+00:00",
+    "audio_rel": "audio/papers/papers-2026-06-24.mp3",
+    "file": "papers-2026-06-24.mp3",
+    "bytes": 10037541,
+    "duration": 1283.44,
+    "guid": "papers-papers-2026-06-24.mp3",
+    "series": "🎓 論文Q&A",
+    "season": 1,
+    "paper_ids": [
+      "https://openalex.org/W4415337613",
+      "https://openalex.org/W7165585540",
+      "https://openalex.org/W7165571724"
+    ]
+  },
+  {
     "title": "🎓 論文Q&A｜2026-06-23：LES-Based Optimization of Urban Th ほか2本",
     "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] LES-Based Optimization of Urban Thermal Comfort Using Machine Learning\n・[新着] Integrating Field Measurements and Simulation Analysis to Evaluate the Influence of Urban Building Configuration on Near-Surface Wind Fields\n・[新着] Subambient daytime radiative cooling to mitigate haze-induced amplification of urban heat islands",
     "date": "2026-06-23T23:22:51.796402+00:00",

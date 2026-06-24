@@ -9,6 +9,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Science"/>
     <item>
+      <title>🎓 論文Q&amp;A｜2026-06-24：Estimating high-resolution albedo  ほか2本</title>
+      <description>批判的な質疑応答で読み解く今回の論文：
+・[新着] Estimating high-resolution albedo for urban applications
+・[新着] Identifying predictive thresholds and marginal benefit boundaries of urban heat environments via explainable AI
+・[新着] Quantifying the Cooling Effects of Urban Trees on Pedestrian Heat Stress in a Dense Mediterranean Urban Environment</description>
+      <pubDate>Wed, 24 Jun 2026 23:18:34 +0000</pubDate>
+      <enclosure url="https://sy4232.github.io/research-podcast/audio/papers/papers-2026-06-24.mp3" length="10037541" type="audio/mpeg"/>
+      <guid isPermaLink="false">papers-papers-2026-06-24.mp3</guid>
+      <itunes:duration>00:21:23</itunes:duration>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
       <title>🎓 論文Q&amp;A｜2026-06-23：LES-Based Optimization of Urban Th ほか2本</title>
       <description>批判的な質疑応答で読み解く今回の論文：
 ・[新着] LES-Based Optimization of Urban Thermal Comfort Using Machine Learning
