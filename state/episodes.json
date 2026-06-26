@@ -1,5 +1,26 @@
 [
   {
+    "title": "🏛️ 政策ウォッチ｜2026-06-26：  Kind of miracle solution : How Paris i ほか",
+    "desc": "今日の都市気候・政策ウォッチ：\n・  Kind of miracle solution : How Paris is harnessing the Seine to replace air - con | Extreme heat（dw.com, theguardian.com）\n・ESA - Europe feels the heat beneath our feet（esa.int, rte.ie）\n・London Faces Huge Financial Cost Tied to Rising Heat , Mayor Says（insurancejournal.com）\n・Kentsel ısı adaları : İstanbulda sıcaklık da sınıfsal（bianet.org）\n・New York City Enacts Law to Protect Workers from Heat（natlawreview.com）",
+    "date": "2026-06-26T06:10:14.501830+00:00",
+    "audio_rel": "audio/news/news-2026-06-26.mp3",
+    "file": "news-2026-06-26.mp3",
+    "bytes": 3679797,
+    "duration": 468.12,
+    "guid": "news-news-2026-06-26.mp3",
+    "series": "🏛️ 政策ウォッチ",
+    "season": 2,
+    "story_urls": [
+      "https://www.theguardian.com/environment/2026/jun/26/underground-revolution-seine-cooling-network-paris-buildings-heat",
+      "https://www.dw.com/en/why-germans-dont-have-air-conditioning/a-77685580",
+      "https://www.esa.int/ESA_Multimedia/Images/2026/06/Europe_feels_the_heat_beneath_our_feet",
+      "https://www.rte.ie/news/europe/2026/0626/1580410-europe-heatwave-environment/",
+      "https://www.insurancejournal.com/news/international/2026/06/25/875293.htm",
+      "https://bianet.org/haber/kentsel-isi-adalari-istanbulda-sicaklik-da-sinifsal-320878",
+      "https://natlawreview.com/article/summer-city-new-york-city-moves-protect-workers-extreme-heat"
+    ]
+  },
+  {
     "title": "🎓 論文Q&A｜2026-06-25：Heat Risk Assessment and Impact-Ba ほか2本",
     "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] Heat Risk Assessment and Impact-Based Early Warning Modeling for Vulnerable Populations\n・[新着] Unraveling the nonlinear drivers of urban land surface temperature in high-density cities: an explainable machine learning analysis of Wuhan, China\n・[新着] Rooftop photovoltaic impacts on outdoor and indoor urban microclimate: Summer and winter simulations by local climate zones using LES",
     "date": "2026-06-25T23:33:11.486232+00:00",
