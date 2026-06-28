@@ -1,5 +1,22 @@
 [
   {
+    "title": "🎓 論文Q&A｜2026-06-28：A coupled heat–cold island network ほか2本",
+    "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] A coupled heat–cold island network framework for urban heat island mitigation: a case study of Central Fuzhou\n・[新着] Spatially optimised sensor networks for efficient urban temperature monitoring and prediction\n・[新着] Characterizing Heat Health Outcomes and Informing Public Health Interventions with Medical Claims Data in California",
+    "date": "2026-06-28T23:18:03.720864+00:00",
+    "audio_rel": "audio/papers/papers-2026-06-28.mp3",
+    "file": "papers-2026-06-28.mp3",
+    "bytes": 10592421,
+    "duration": 1344.28,
+    "guid": "papers-papers-2026-06-28.mp3",
+    "series": "🎓 論文Q&A",
+    "season": 1,
+    "paper_ids": [
+      "https://openalex.org/W7166021665",
+      "https://openalex.org/W7166166423",
+      "https://openalex.org/W7166174933"
+    ]
+  },
+  {
     "title": "🏛️ 政策ウォッチ｜2026-06-28：VPP using residential batteries, smart t ほか",
     "desc": "今日の都市気候・政策ウォッチ：\n・VPP using residential batteries, smart thermostats could ease data center grid crunch, developers say（Smart Cities Dive - Latest News）",
     "date": "2026-06-28T06:11:46.166787+00:00",

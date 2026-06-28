@@ -9,6 +9,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Science"/>
     <item>
+      <title>🎓 論文Q&amp;A｜2026-06-28：A coupled heat–cold island network ほか2本</title>
+      <description>批判的な質疑応答で読み解く今回の論文：
+・[新着] A coupled heat–cold island network framework for urban heat island mitigation: a case study of Central Fuzhou
+・[新着] Spatially optimised sensor networks for efficient urban temperature monitoring and prediction
+・[新着] Characterizing Heat Health Outcomes and Informing Public Health Interventions with Medical Claims Data in California</description>
+      <pubDate>Sun, 28 Jun 2026 23:18:03 +0000</pubDate>
+      <enclosure url="https://sy4232.github.io/research-podcast/audio/papers/papers-2026-06-28.mp3" length="10592421" type="audio/mpeg"/>
+      <guid isPermaLink="false">papers-papers-2026-06-28.mp3</guid>
+      <itunes:duration>00:22:24</itunes:duration>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
       <title>🏛️ 政策ウォッチ｜2026-06-28：VPP using residential batteries, smart t ほか</title>
       <description>今日の都市気候・政策ウォッチ：
 ・VPP using residential batteries, smart thermostats could ease data center grid crunch, developers say（Smart Cities Dive - Latest News）</description>
