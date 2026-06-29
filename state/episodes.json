@@ -1,5 +1,22 @@
 [
   {
+    "title": "🎓 論文Q&A｜2026-06-29：Spatiotemporal Patterns and Energy ほか2本",
+    "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] Spatiotemporal Patterns and Energy Consumption Effects of Urban Heat Island Intensity: A Study of 216 Cities Across Five Major Climatic Zones in China\n・[新着] Reassessing Urban Heat Island Intensity Using Vegetation-Based References in a Semi-Arid City: The Case of Diyarbakır\n・[新着] Mortality modeling for short-term climate stress test in France: impact of extreme heat",
+    "date": "2026-06-29T23:13:09.212935+00:00",
+    "audio_rel": "audio/papers/papers-2026-06-29.mp3",
+    "file": "papers-2026-06-29.mp3",
+    "bytes": 9727509,
+    "duration": 1241.56,
+    "guid": "papers-papers-2026-06-29.mp3",
+    "series": "🎓 論文Q&A",
+    "season": 1,
+    "paper_ids": [
+      "https://openalex.org/W7166460570",
+      "https://openalex.org/W7166465890",
+      "https://openalex.org/W7166047929"
+    ]
+  },
+  {
     "title": "🎓 論文Q&A｜2026-06-28：A coupled heat–cold island network ほか2本",
     "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] A coupled heat–cold island network framework for urban heat island mitigation: a case study of Central Fuzhou\n・[新着] Spatially optimised sensor networks for efficient urban temperature monitoring and prediction\n・[新着] Characterizing Heat Health Outcomes and Informing Public Health Interventions with Medical Claims Data in California",
     "date": "2026-06-28T23:18:03.720864+00:00",
