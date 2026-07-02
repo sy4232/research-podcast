@@ -1,5 +1,22 @@
 [
   {
+    "title": "🎓 論文Q&A｜2026-07-02：AI driven urban heat equity atlas  ほか2本",
+    "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] AI driven urban heat equity atlas integrating machine learning for climate risk assessment\n・[新着] Understanding urban heat patterns in Dhaka city using explainable GeoAI and satellite-derived LST\n・[新着] LES SENSITIVITY TO DOMAIN SIZE AND GRID RESOLUTION  IN IDEALIZED URBAN STREET CANYON",
+    "date": "2026-07-02T23:23:10.082736+00:00",
+    "audio_rel": "audio/papers/papers-2026-07-02.mp3",
+    "file": "papers-2026-07-02.mp3",
+    "bytes": 10259085,
+    "duration": 1306.24,
+    "guid": "papers-papers-2026-07-02.mp3",
+    "series": "🎓 論文Q&A",
+    "season": 1,
+    "paper_ids": [
+      "https://openalex.org/W7166684389",
+      "https://openalex.org/W7166685782",
+      "https://openalex.org/W7166700960"
+    ]
+  },
+  {
     "title": "🏛️ 政策ウォッチ｜2026-07-01：Cities address root causes of health dis ほか",
     "desc": "今日の都市気候・政策ウォッチ：\n・Cities address root causes of health disparities（Smart Cities Dive - Latest News）",
     "date": "2026-07-01T06:20:29.954554+00:00",
