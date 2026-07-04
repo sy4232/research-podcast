@@ -1,5 +1,22 @@
 [
   {
+    "title": "🎓 論文Q&A｜2026-07-04：Urban heat risk assessment: a mach ほか2本",
+    "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] Urban heat risk assessment: a machine learning analysis of multidimensional morphology in 293 Chinese cities\n・[新着] Spatial modeling of impervious surface effects on thermal gradients in arid urban neighborhoods using geographically neural network weighted regression (Gnnwr)\n・[新着] Beyond inequality to inequity: rethinking spatial and population disparities in green cooling effects across China’s major cities",
+    "date": "2026-07-04T23:11:44.290148+00:00",
+    "audio_rel": "audio/papers/papers-2026-07-04.mp3",
+    "file": "papers-2026-07-04.mp3",
+    "bytes": 9571773,
+    "duration": 1212.16,
+    "guid": "papers-papers-2026-07-04.mp3",
+    "series": "🎓 論文Q&A",
+    "season": 1,
+    "paper_ids": [
+      "https://openalex.org/W7167081936",
+      "https://openalex.org/W7167236822",
+      "https://openalex.org/W7167220746"
+    ]
+  },
+  {
     "title": "🎓 論文Q&A｜2026-07-03：Differences in the Mechanisms Infl ほか2本",
     "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] Differences in the Mechanisms Influencing the Urban Heat Island Effect Between Representative Southern and Northern Chinese Cities: A Case Study of Wuhan and Xi’an\n・[新着] Spatio-temporal assessment of urban vegetation cooling efficiency and the identification of critical heat mitigation zones in Kraków, Poland\n・[新着] Activity-Weighted Assessment and Environmental Drivers of Compound Ozone–Heat Exposure Risk in Urban Outdoor Exercise Spaces",
     "date": "2026-07-03T23:20:15.246622+00:00",
