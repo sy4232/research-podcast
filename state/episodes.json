@@ -1,5 +1,22 @@
 [
   {
+    "title": "🎓 論文Q&A｜2026-07-06：Urban heat mitigation by green and ほか2本",
+    "desc": "批判的な質疑応答で読み解く今回の論文：\n・[注目・被引用227] Urban heat mitigation by green and blue infrastructure: Drivers, effectiveness, and future needs\n・[注目・被引用180] Cooling efficacy of trees across cities is determined by background climate, urban morphology, and tree trait\n・[注目・被引用216] Integrated Assessment of Urban Overheating Impacts on Human Life",
+    "date": "2026-07-06T23:24:22.741606+00:00",
+    "audio_rel": "audio/papers/papers-2026-07-06.mp3",
+    "file": "papers-2026-07-06.mp3",
+    "bytes": 9967485,
+    "duration": 1313.04,
+    "guid": "papers-papers-2026-07-06.mp3",
+    "series": "🎓 論文Q&A",
+    "season": 1,
+    "paper_ids": [
+      "https://openalex.org/W4391617520",
+      "https://openalex.org/W4405248627",
+      "https://openalex.org/W4292722327"
+    ]
+  },
+  {
     "title": "🎓 論文Q&A｜2026-07-05：Assessing The Synergistic Impact o ほか2本",
     "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] Assessing The Synergistic Impact of Urban Morphology and Air Pollution on SUHI Using Multi-Sensor Data Fusion and Machine Learning\n・[新着] Spatial modeling of impervious surface effects on thermal gradients in arid urban neighborhoods using geographically neural network weighted regression (Gnnwr)\n・[新着] Urban Morphology &amp; Climate Hazards: A Systematic Review of Global Evidence, Gaps and Future Directions",
     "date": "2026-07-05T23:15:50.825112+00:00",
