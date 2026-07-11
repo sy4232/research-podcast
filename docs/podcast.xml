@@ -9,6 +9,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Science"/>
     <item>
+      <title>🎓 論文Q&amp;A｜2026-07-11：Physics-Informed Mesh Optimization ほか2本</title>
+      <description>批判的な質疑応答で読み解く今回の論文：
+・[新着] Physics-Informed Mesh Optimization for Improving Computational Efficiency in Urban CFD Simulations
+・[新着] A physics-informed deep learning urban canopy model for Mediterranean cities: Development, validation, and application to Thessaloniki, Greece
+・[新着] Connectivity and Resilience of Urban Cooling Networks: A Network-Based Assessment Under Heterogeneous Resistance</description>
+      <pubDate>Sat, 11 Jul 2026 23:04:33 +0000</pubDate>
+      <enclosure url="https://sy4232.github.io/research-podcast/audio/papers/papers-2026-07-11.mp3" length="10229445" type="audio/mpeg"/>
+      <guid isPermaLink="false">papers-papers-2026-07-11.mp3</guid>
+      <itunes:duration>00:21:30</itunes:duration>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
       <title>🏛️ 政策ウォッチ｜2026-07-11：$1.1 trillion a year in federal funding  ほか</title>
       <description>今日の都市気候・政策ウォッチ：
 ・$1.1 trillion a year in federal funding at risk in proposed OMB grant overhaul, municipal leaders warn（Smart Cities Dive - Latest News）

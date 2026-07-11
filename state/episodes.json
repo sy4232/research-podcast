@@ -1,5 +1,22 @@
 [
   {
+    "title": "🎓 論文Q&A｜2026-07-11：Physics-Informed Mesh Optimization ほか2本",
+    "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] Physics-Informed Mesh Optimization for Improving Computational Efficiency in Urban CFD Simulations\n・[新着] A physics-informed deep learning urban canopy model for Mediterranean cities: Development, validation, and application to Thessaloniki, Greece\n・[新着] Connectivity and Resilience of Urban Cooling Networks: A Network-Based Assessment Under Heterogeneous Resistance",
+    "date": "2026-07-11T23:04:33.058034+00:00",
+    "audio_rel": "audio/papers/papers-2026-07-11.mp3",
+    "file": "papers-2026-07-11.mp3",
+    "bytes": 10229445,
+    "duration": 1290.68,
+    "guid": "papers-papers-2026-07-11.mp3",
+    "series": "🎓 論文Q&A",
+    "season": 1,
+    "paper_ids": [
+      "https://openalex.org/W7167934055",
+      "https://openalex.org/W7167814909",
+      "https://openalex.org/W7167892832"
+    ]
+  },
+  {
     "title": "🏛️ 政策ウォッチ｜2026-07-11：$1.1 trillion a year in federal funding  ほか",
     "desc": "今日の都市気候・政策ウォッチ：\n・$1.1 trillion a year in federal funding at risk in proposed OMB grant overhaul, municipal leaders warn（Smart Cities Dive - Latest News）\n・LA to get 4,000 affordable housing units via adaptive reuse, new construction（Smart Cities Dive - Latest News）\n・California return-to-office mandate puts state buildings to the test（Smart Cities Dive - Latest News）\n・NYC commercial composting requirements could grow under new law（Smart Cities Dive - Latest News）\n・$1.73B for roads, bridges, transit and other projects allocated in USDOT awards（Smart Cities Dive - Latest News）",
     "date": "2026-07-11T05:01:17.917478+00:00",
