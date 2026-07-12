@@ -9,6 +9,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Science"/>
     <item>
+      <title>🎓 論文Q&amp;A｜2026-07-12：Urban morphology and outdoor therm ほか2本</title>
+      <description>批判的な質疑応答で読み解く今回の論文：
+・[新着] Urban morphology and outdoor thermal comfort in extreme hot–humid climates: a SHAP-based sensitivity analysis
+・[新着] A comprehensive comparison of RANS and LES simulations for pedestrian wind comfort assessment
+・[新着] A coupling framework for assessing spatial inequities in regional provisioning ecosystem services and designing rooftop greening interventions: A case study of South Holland Province, Netherlands</description>
+      <pubDate>Sun, 12 Jul 2026 23:05:24 +0000</pubDate>
+      <enclosure url="https://sy4232.github.io/research-podcast/audio/papers/papers-2026-07-12.mp3" length="9679941" type="audio/mpeg"/>
+      <guid isPermaLink="false">papers-papers-2026-07-12.mp3</guid>
+      <itunes:duration>00:20:40</itunes:duration>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
       <title>🎓 論文Q&amp;A｜2026-07-11：Physics-Informed Mesh Optimization ほか2本</title>
       <description>批判的な質疑応答で読み解く今回の論文：
 ・[新着] Physics-Informed Mesh Optimization for Improving Computational Efficiency in Urban CFD Simulations
