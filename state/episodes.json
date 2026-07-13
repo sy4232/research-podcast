@@ -1,5 +1,22 @@
 [
   {
+    "title": "🎓 論文Q&A｜2026-07-13：Effects of urban vegetation on the ほか2本",
+    "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] Effects of urban vegetation on the surface urban heat island: a UAV approach with a focus on private gardens\n・[新着] Cooling The Sahel’s Expanding Cities: Land Surface Temperature Dynamics and Urban Resilience Planning in Nigeria’s Upper Benue River Basin\n・[新着] Exploring seasonal urban heat source–sink patterns and their linkages with LULC and LST in a rapidly urbanising landscape of Eastern India",
+    "date": "2026-07-13T23:10:50.136633+00:00",
+    "audio_rel": "audio/papers/papers-2026-07-13.mp3",
+    "file": "papers-2026-07-13.mp3",
+    "bytes": 9977469,
+    "duration": 1281.12,
+    "guid": "papers-papers-2026-07-13.mp3",
+    "series": "🎓 論文Q&A",
+    "season": 1,
+    "paper_ids": [
+      "https://openalex.org/W7168100579",
+      "https://openalex.org/W7167915000",
+      "https://openalex.org/W7167828257"
+    ]
+  },
+  {
     "title": "🎓 論文Q&A｜2026-07-12：Urban morphology and outdoor therm ほか2本",
     "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] Urban morphology and outdoor thermal comfort in extreme hot–humid climates: a SHAP-based sensitivity analysis\n・[新着] A comprehensive comparison of RANS and LES simulations for pedestrian wind comfort assessment\n・[新着] A coupling framework for assessing spatial inequities in regional provisioning ecosystem services and designing rooftop greening interventions: A case study of South Holland Province, Netherlands",
     "date": "2026-07-12T23:05:24.011835+00:00",
