@@ -1,5 +1,22 @@
 [
   {
+    "title": "🎓 論文Q&A｜2026-07-15：Explainable deep learning for unde ほか2本",
+    "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] Explainable deep learning for understanding the influence of urban characteristics and atmospheric parameters on surface urban heat islands\n・[新着] Decoding urban heat and cold cores: spatiotemporal evolution and multidimensional drivers in hyper-urbanized regions\n・[新着] Modeling land use and thermal change along Dhaka’s MRT line 6 using remote sensing and CA-ANN",
+    "date": "2026-07-15T23:12:23.567306+00:00",
+    "audio_rel": "audio/papers/papers-2026-07-15.mp3",
+    "file": "papers-2026-07-15.mp3",
+    "bytes": 9529653,
+    "duration": 1230.04,
+    "guid": "papers-papers-2026-07-15.mp3",
+    "series": "🎓 論文Q&A",
+    "season": 1,
+    "paper_ids": [
+      "https://openalex.org/W7168246285",
+      "https://openalex.org/W7168310255",
+      "https://openalex.org/W7168213167"
+    ]
+  },
+  {
     "title": "🎓 論文Q&A｜2026-07-14：Grey–green spatial morphology rela ほか2本",
     "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] Grey–green spatial morphology relates to summer daytime and nighttime land surface temperature across local climate zones in Wuhan\n・[新着] Canopy Urban Heat Island Mitigation Through Green Façadesin a Hot Arid Climate Zone\n・[新着] A nested-block scalable framework for efficient and equitable urban infrastructure management",
     "date": "2026-07-14T23:11:30.155280+00:00",
