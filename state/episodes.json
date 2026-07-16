@@ -1,5 +1,22 @@
 [
   {
+    "title": "🎓 論文Q&A｜2026-07-16：Interpretable machine learning for ほか2本",
+    "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] Interpretable machine learning for identifying determinants of high hypertension burden under extreme heat vulnerability: evidence from Maryland, USA\n・[新着] Radiative-cooling concrete as a low-cost heat-rejection solution for Geo-thermal energy storage in hybrid ground-coupled heat pumps\n・[新着] Trade-off analysis of ecosystem services to assess co-benefits of blue-green infrastructure to support planning for urban sustainability and resilience",
+    "date": "2026-07-16T23:11:41.100102+00:00",
+    "audio_rel": "audio/papers/papers-2026-07-16.mp3",
+    "file": "papers-2026-07-16.mp3",
+    "bytes": 10048965,
+    "duration": 1272.96,
+    "guid": "papers-papers-2026-07-16.mp3",
+    "series": "🎓 論文Q&A",
+    "season": 1,
+    "paper_ids": [
+      "https://openalex.org/W7168389623",
+      "https://openalex.org/W7168189184",
+      "https://openalex.org/W7168261476"
+    ]
+  },
+  {
     "title": "🏛️ 政策ウォッチ｜2026-07-16：With extreme rainfall overwhelming Chica ほか",
     "desc": "今日の都市気候・政策ウォッチ：\n・With extreme rainfall overwhelming Chicago’s sewers, the city tries a new approach（Smart Cities Dive - Latest News）\n・New York freezes new large data center projects for one year（Smart Cities Dive - Latest News）\n・Community solar, incentives helped New York reach 8 GW of distributed solar capacity（Smart Cities Dive - Latest News）\n・Top concerns of city leaders: 4 takeaways from NLC’s State of the Cities 2026（Smart Cities Dive - Latest News）\n・Local water projects would get billions under water infrastructure bill（Smart Cities Dive - Latest News）",
     "date": "2026-07-16T04:59:14.913096+00:00",
