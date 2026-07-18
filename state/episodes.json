@@ -1,5 +1,22 @@
 [
   {
+    "title": "🎓 論文Q&A｜2026-07-18：Diurnal land surface temperature r ほか2本",
+    "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] Diurnal land surface temperature responses to urban morphology during heatwaves: insights from SDGSAT-1 and explainable machine learning\n・[新着] A Reproducible Multi-Scale Workflow for Assessing Heat-Aware Walkability in Andean Intermediate Cities: Application to Loja, Ecuador\n・[新着] Global climate risks for outdoor sports under CMIP6 scenarios: A multi-indicator assessment based on WBGT, Heat Index, heavy rainfall, and heatwaves",
+    "date": "2026-07-18T23:06:32.639841+00:00",
+    "audio_rel": "audio/papers/papers-2026-07-18.mp3",
+    "file": "papers-2026-07-18.mp3",
+    "bytes": 10209885,
+    "duration": 1306.48,
+    "guid": "papers-papers-2026-07-18.mp3",
+    "series": "🎓 論文Q&A",
+    "season": 1,
+    "paper_ids": [
+      "https://openalex.org/W7169550974",
+      "https://openalex.org/W7168587910",
+      "https://openalex.org/W7168375308"
+    ]
+  },
+  {
     "title": "🏛️ 政策ウォッチ｜2026-07-18：Heat pumps, other energy-efficient appli ほか",
     "desc": "今日の都市気候・政策ウォッチ：\n・Heat pumps, other energy-efficient appliances could cut energy costs by more than $100B a year: report（Smart Cities Dive - Latest News）",
     "date": "2026-07-18T04:43:46.420340+00:00",
