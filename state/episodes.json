@@ -1,5 +1,22 @@
 [
   {
+    "title": "🎓 論文Q&A｜2026-07-19：Low Built-Up Density Emerges as a  ほか2本",
+    "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] Low Built-Up Density Emerges as a Key Driver of Heat Extremes over the Sahel\n・[新着] Downscaling extreme winds to the building scale for resilient critical infrastructure\n・[新着] Urban Building Energy Modelling: From Fragmented Efforts to a Common Foundation",
+    "date": "2026-07-19T23:07:43.969600+00:00",
+    "audio_rel": "audio/papers/papers-2026-07-19.mp3",
+    "file": "papers-2026-07-19.mp3",
+    "bytes": 9423213,
+    "duration": 1210.88,
+    "guid": "papers-papers-2026-07-19.mp3",
+    "series": "🎓 論文Q&A",
+    "season": 1,
+    "paper_ids": [
+      "https://openalex.org/W7169683128",
+      "https://openalex.org/W7169571559",
+      "https://openalex.org/W7168564548"
+    ]
+  },
+  {
     "title": "🎓 論文Q&A｜2026-07-18：Diurnal land surface temperature r ほか2本",
     "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] Diurnal land surface temperature responses to urban morphology during heatwaves: insights from SDGSAT-1 and explainable machine learning\n・[新着] A Reproducible Multi-Scale Workflow for Assessing Heat-Aware Walkability in Andean Intermediate Cities: Application to Loja, Ecuador\n・[新着] Global climate risks for outdoor sports under CMIP6 scenarios: A multi-indicator assessment based on WBGT, Heat Index, heavy rainfall, and heatwaves",
     "date": "2026-07-18T23:06:32.639841+00:00",
