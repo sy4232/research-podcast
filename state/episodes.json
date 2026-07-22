@@ -1,5 +1,22 @@
 [
   {
+    "title": "🎓 論文Q&A｜2026-07-22：Urban Oases or Heat Islands? Preci ほか2本",
+    "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] Urban Oases or Heat Islands? Precipitation, Land Cover, and Soil Texture as Factors Associated with Surface Thermal Contrasts in Brazilian Semiarid Cities\n・[新着] Spatial patterns and nonlinear drivers of summer Urban Dry-Wet Islands in China: integrating geographically weighted regression with explainable machine learning\n・[新着] From continental to street scales: climate change impacts on atmospheric composition over Europe and London",
+    "date": "2026-07-22T23:19:18.632965+00:00",
+    "audio_rel": "audio/papers/papers-2026-07-22.mp3",
+    "file": "papers-2026-07-22.mp3",
+    "bytes": 10351821,
+    "duration": 1306.28,
+    "guid": "papers-papers-2026-07-22.mp3",
+    "series": "🎓 論文Q&A",
+    "season": 1,
+    "paper_ids": [
+      "https://openalex.org/W7169841690",
+      "https://openalex.org/W7169840885",
+      "https://openalex.org/W7169850513"
+    ]
+  },
+  {
     "title": "🎓 論文Q&A｜2026-07-21：Hot and powerless: Identifying vul ほか2本",
     "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] Hot and powerless: Identifying vulnerable population clusters under hypothetical concurrent heatwave and loss-of-electricity conditions in Australia\n・[新着] The Influence of Colored Asphalt Pavements on Urban Heat Island Mitigation and Mechanical Durability\n・[新着] Exploratory Vulnerability Assessment of the Urban Ecological Security Pattern in Bogotá: Static and Dynamic Attack Simulations and Cascading-Failure Modelling in a Global South City",
     "date": "2026-07-21T23:13:58.542269+00:00",
