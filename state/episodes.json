@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "title": "🎯 BUCSS登壇者｜Ariane Middel（Arizona State University）",
+    "desc": "BUCSS登壇者 Ariane Middel（Arizona State University）の研究を批判的な質疑で読み解きます。\n都市形態と人体熱暴露・微気候シミュレーション・urban climate informatics／IAUC会長・米国\n\n今回の論文：\n・Impact of urban form and design on mid-afternoon microclimate in Phoenix Local Climate Zones\n・Cooling hot cities: a systematic and critical review of the numerical modelling literature\n・Solar reflective pavements—A policy panacea to heat mitigation?",
+    "date": "2026-07-23T22:57:08.074705+00:00",
+    "audio_rel": "audio/bucss/bucss-ariane-middel-2026-07-23.mp3",
+    "file": "bucss-ariane-middel-2026-07-23.mp3",
+    "bytes": 9537357,
+    "duration": 1225.12,
+    "guid": "bucss-ariane-middel",
+    "series": "🎯 BUCSS登壇者",
+    "season": 3,
+    "paper_ids": [
+      "https://openalex.org/W2055459538",
+      "https://openalex.org/W3121594490",
+      "https://openalex.org/W3015194077"
+    ],
+    "bucss_lecturers": [
+      "Ariane Middel"
+    ]
+  }
+]
