@@ -1,0 +1,39 @@
+name: advanced-lecture-podcast
+
+on:
+  schedule:
+    - cron: '0 22 * * 2,5'    # 毎週 火・金 22:00 UTC（上級講義・全5回で自動終了）
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - name: Install deps
+        run: pip install -r requirements.txt
+      - name: Run lecture pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PAGES_BASE_URL: ${{ vars.PAGES_BASE_URL }}
+        run: python run_lecture.py
+      - name: Commit new episode
+        run: |
+          git config user.name  "podcast-bot"
+          git config user.email "podcast-bot@users.noreply.github.com"
+          git add docs/ state/
+          git commit -m "lecture episode $(date -u +%Y-%m-%d)" || { echo "no new episode"; exit 0; }
+          git pull --rebase --autostash origin main || true
+          git push
