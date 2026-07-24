@@ -1,5 +1,20 @@
 [
   {
+    "title": "📚 上級講義 第1回／全5回：都市境界層とスケールの物理",
+    "desc": "上級・都市微気候 講義シリーズ 第1回／全5回\n『いま自分はどのスケールを解いているのか』の自覚が、以降のCFD設定・観測比較・LST解釈すべての前提になる。\n\n扱う内容：\n・都市キャノピー層(UCL)・粗度層(RSL)・慣性層・都市境界層(UBL)の鉛直構造と、各層で成り立つ仮定\n・Monin-Obukhov相似則が都市で破綻する理由（粗度層内の非局所性、分散応力、変位高さの不確実性）\n・形態パラメータ：粗度長z0、ゼロ面変位d、平面充填率λp、前面積密度λf と推定法の不確かさ\n・Local Climate Zone(LCZ)の思想と限界：クラス分けが何を捨象しているか\n・スケールの整合：どの現象をどの解像度で解くべきか（メソ／マイクロ／CFDの守備範囲）",
+    "date": "2026-07-24T23:04:08.041755+00:00",
+    "audio_rel": "audio/lecture/lecture-01-2026-07-24.mp3",
+    "file": "lecture-01-2026-07-24.mp3",
+    "bytes": 5801805,
+    "duration": 748.8,
+    "guid": "lecture-01",
+    "series": "📚 上級講義",
+    "season": 4,
+    "lecture_numbers": [
+      1
+    ]
+  },
+  {
     "title": "🎯 BUCSS登壇者｜Ariane Middel（Arizona State University）",
     "desc": "BUCSS登壇者 Ariane Middel（Arizona State University）の研究を批判的な質疑で読み解きます。\n都市形態と人体熱暴露・微気候シミュレーション・urban climate informatics／IAUC会長・米国\n\n今回の論文：\n・Impact of urban form and design on mid-afternoon microclimate in Phoenix Local Climate Zones\n・Cooling hot cities: a systematic and critical review of the numerical modelling literature\n・Solar reflective pavements—A policy panacea to heat mitigation?",
     "date": "2026-07-23T22:57:08.074705+00:00",

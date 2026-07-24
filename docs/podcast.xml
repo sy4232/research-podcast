@@ -9,6 +9,23 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Science"/>
     <item>
+      <title>📚 上級講義 第1回／全5回：都市境界層とスケールの物理</title>
+      <description>上級・都市微気候 講義シリーズ 第1回／全5回
+『いま自分はどのスケールを解いているのか』の自覚が、以降のCFD設定・観測比較・LST解釈すべての前提になる。
+
+扱う内容：
+・都市キャノピー層(UCL)・粗度層(RSL)・慣性層・都市境界層(UBL)の鉛直構造と、各層で成り立つ仮定
+・Monin-Obukhov相似則が都市で破綻する理由（粗度層内の非局所性、分散応力、変位高さの不確実性）
+・形態パラメータ：粗度長z0、ゼロ面変位d、平面充填率λp、前面積密度λf と推定法の不確かさ
+・Local Climate Zone(LCZ)の思想と限界：クラス分けが何を捨象しているか
+・スケールの整合：どの現象をどの解像度で解くべきか（メソ／マイクロ／CFDの守備範囲）</description>
+      <pubDate>Fri, 24 Jul 2026 23:04:08 +0000</pubDate>
+      <enclosure url="https://sy4232.github.io/research-podcast/audio/lecture/lecture-01-2026-07-24.mp3" length="5801805" type="audio/mpeg"/>
+      <guid isPermaLink="false">lecture-01</guid>
+      <itunes:duration>00:12:28</itunes:duration>
+      <itunes:season>4</itunes:season>
+    </item>
+    <item>
       <title>🎯 BUCSS登壇者｜Ariane Middel（Arizona State University）</title>
       <description>BUCSS登壇者 Ariane Middel（Arizona State University）の研究を批判的な質疑で読み解きます。
 都市形態と人体熱暴露・微気候シミュレーション・urban climate informatics／IAUC会長・米国
