@@ -9,6 +9,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Science"/>
     <item>
+      <title>🏛️ 政策ウォッチ｜2026-07-25：3 steps on extreme heat every city shoul ほか</title>
+      <description>今日の都市気候・政策ウォッチ：
+・3 steps on extreme heat every city should take（Smart Cities Dive - Latest News）
+・Harley-Davidson replaced pavement with flood protection, creating a new Milwaukee park（Smart Cities Dive - Latest News）
+・As data centers expand, cities face tough energy, water questions: report（Smart Cities Dive - Latest News）
+・Parking minimums axed in most of North Carolina（Smart Cities Dive - Latest News）
+・$530M from state millionaire tax will go to Boston-area transit agency（Smart Cities Dive - Latest News）</description>
+      <pubDate>Sat, 25 Jul 2026 05:03:06 +0000</pubDate>
+      <enclosure url="https://sy4232.github.io/research-podcast/audio/news/news-2026-07-25.mp3" length="3383781" type="audio/mpeg"/>
+      <guid isPermaLink="false">news-news-2026-07-25.mp3</guid>
+      <itunes:duration>00:07:04</itunes:duration>
+      <itunes:season>2</itunes:season>
+    </item>
+    <item>
       <title>📚 上級講義 第1回／全5回：都市境界層とスケールの物理</title>
       <description>上級・都市微気候 講義シリーズ 第1回／全5回
 『いま自分はどのスケールを解いているのか』の自覚が、以降のCFD設定・観測比較・LST解釈すべての前提になる。

@@ -1,5 +1,24 @@
 [
   {
+    "title": "🏛️ 政策ウォッチ｜2026-07-25：3 steps on extreme heat every city shoul ほか",
+    "desc": "今日の都市気候・政策ウォッチ：\n・3 steps on extreme heat every city should take（Smart Cities Dive - Latest News）\n・Harley-Davidson replaced pavement with flood protection, creating a new Milwaukee park（Smart Cities Dive - Latest News）\n・As data centers expand, cities face tough energy, water questions: report（Smart Cities Dive - Latest News）\n・Parking minimums axed in most of North Carolina（Smart Cities Dive - Latest News）\n・$530M from state millionaire tax will go to Boston-area transit agency（Smart Cities Dive - Latest News）",
+    "date": "2026-07-25T05:03:06.233953+00:00",
+    "audio_rel": "audio/news/news-2026-07-25.mp3",
+    "file": "news-2026-07-25.mp3",
+    "bytes": 3383781,
+    "duration": 424.6,
+    "guid": "news-news-2026-07-25.mp3",
+    "series": "🏛️ 政策ウォッチ",
+    "season": 2,
+    "story_urls": [
+      "https://www.smartcitiesdive.com/news/extreme-heat-3-steps-every-city-should-take/825864/",
+      "https://www.smartcitiesdive.com/news/harley-davidson-park-flood-protection-hga/826013/",
+      "https://www.smartcitiesdive.com/news/us-data-centers-could-4x-water-use-by-2028-double-electricity-by-2030-khi/825868/",
+      "https://www.smartcitiesdive.com/news/parking-minimums-axed-in-most-of-north-carolina/825897/",
+      "https://www.smartcitiesdive.com/news/mbta-boston-massachusetts-millionaire-tax/826103/"
+    ]
+  },
+  {
     "title": "📚 上級講義 第1回／全5回：都市境界層とスケールの物理",
     "desc": "上級・都市微気候 講義シリーズ 第1回／全5回\n『いま自分はどのスケールを解いているのか』の自覚が、以降のCFD設定・観測比較・LST解釈すべての前提になる。\n\n扱う内容：\n・都市キャノピー層(UCL)・粗度層(RSL)・慣性層・都市境界層(UBL)の鉛直構造と、各層で成り立つ仮定\n・Monin-Obukhov相似則が都市で破綻する理由（粗度層内の非局所性、分散応力、変位高さの不確実性）\n・形態パラメータ：粗度長z0、ゼロ面変位d、平面充填率λp、前面積密度λf と推定法の不確かさ\n・Local Climate Zone(LCZ)の思想と限界：クラス分けが何を捨象しているか\n・スケールの整合：どの現象をどの解像度で解くべきか（メソ／マイクロ／CFDの守備範囲）",
     "date": "2026-07-24T23:04:08.041755+00:00",
