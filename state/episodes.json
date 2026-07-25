@@ -1,5 +1,22 @@
 [
   {
+    "title": "🎓 論文Q&A｜2026-07-25：Scalable machine learning for urba ほか2本",
+    "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] Scalable machine learning for urban thermal morphology classification: clustering high-resolution microclimate and dynamic mapping of radiant temperature\n・[新着] Urban warming reshapes the safe outdoor activity opportunity window: dual-metric evidence from Heat Risk Hours and PAO\n・[新着] Interaction effects of blue-green spaces’ morphological indicators on thermal comfort during summer: evidence from urban parks in Chongqing, China",
+    "date": "2026-07-25T23:11:52.055216+00:00",
+    "audio_rel": "audio/papers/papers-2026-07-25.mp3",
+    "file": "papers-2026-07-25.mp3",
+    "bytes": 10294797,
+    "duration": 1312.76,
+    "guid": "papers-papers-2026-07-25.mp3",
+    "series": "🎓 論文Q&A",
+    "season": 1,
+    "paper_ids": [
+      "https://openalex.org/W7169854510",
+      "https://openalex.org/W7170040938",
+      "https://openalex.org/W7170911186"
+    ]
+  },
+  {
     "title": "🏛️ 政策ウォッチ｜2026-07-25：3 steps on extreme heat every city shoul ほか",
     "desc": "今日の都市気候・政策ウォッチ：\n・3 steps on extreme heat every city should take（Smart Cities Dive - Latest News）\n・Harley-Davidson replaced pavement with flood protection, creating a new Milwaukee park（Smart Cities Dive - Latest News）\n・As data centers expand, cities face tough energy, water questions: report（Smart Cities Dive - Latest News）\n・Parking minimums axed in most of North Carolina（Smart Cities Dive - Latest News）\n・$530M from state millionaire tax will go to Boston-area transit agency（Smart Cities Dive - Latest News）",
     "date": "2026-07-25T05:03:06.233953+00:00",
