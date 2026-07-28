@@ -1,5 +1,20 @@
 [
   {
+    "title": "📚 上級講義 第2回／全5回：表面エネルギーバランスと放射",
+    "desc": "上級・都市微気候 講義シリーズ 第2回／全5回\nリモートセンシング研究で最も誤解されやすいLSTとTaの乖離を、エネルギーバランスの言葉で厳密に整理する。\n\n扱う内容：\n・都市の表面エネルギーバランス：純放射Q*、顕熱QH、潜熱QE、蓄熱ΔQS、人工排熱QF の各項\n・蓄熱フラックスの扱い（OHM等のヒステリシス）と、それが日変化の位相を決める理由\n・キャニオン内の放射トラップ：Sky View Factor、多重反射、長波交換の幾何依存性\n・LST(表面温度)とTa(気温)の決定的な違い：衛星が見ているものは何か、なぜSUHIとAUHIがずれるのか\n・指向性放射率・角度異方性が衛星LSTに与えるバイアス",
+    "date": "2026-07-28T23:02:06.529607+00:00",
+    "audio_rel": "audio/lecture/lecture-02-2026-07-28.mp3",
+    "file": "lecture-02-2026-07-28.mp3",
+    "bytes": 6255381,
+    "duration": 808.88,
+    "guid": "lecture-02",
+    "series": "📚 上級講義",
+    "season": 4,
+    "lecture_numbers": [
+      2
+    ]
+  },
+  {
     "title": "🏛️ 政策ウォッチ｜2026-07-28：Cut funding for mass transit, bike lanes ほか",
     "desc": "今日の都市気候・政策ウォッチ：\n・Cut funding for mass transit, bike lanes, EV infrastructure, DOT proposes（Smart Cities Dive - Latest News）\n・How modern roofing and waterproofing solutions protect historic structures（Smart Cities Dive - Latest News）\n・Hundreds of smart traffic intersections coming to the Houston area（Smart Cities Dive - Latest News）",
     "date": "2026-07-28T05:00:55.331674+00:00",
