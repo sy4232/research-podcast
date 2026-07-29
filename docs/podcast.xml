@@ -9,6 +9,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Science"/>
     <item>
+      <title>🎓 論文Q&amp;A｜2026-07-29：Scale dependency for estimating th ほか2本</title>
+      <description>批判的な質疑応答で読み解く今回の論文：
+・[新着] Scale dependency for estimating the cooling effect of urban green spaces on air temperature
+・[新着] Preliminary Field Performance of a Low-Tortuosity Permeable Pavement System Incorporating Bottom Ash Fine Aggregate for Surface-Temperature Regulation and Stormwater Storage
+・[新着] Spatial Non-Stationarity in the Relationships Between Urban Surface Water Networks and Land Surface Temperature: Evidence from Fuzhou, China</description>
+      <pubDate>Wed, 29 Jul 2026 23:12:48 +0000</pubDate>
+      <enclosure url="https://sy4232.github.io/research-podcast/audio/papers/papers-2026-07-29.mp3" length="9584565" type="audio/mpeg"/>
+      <guid isPermaLink="false">papers-papers-2026-07-29.mp3</guid>
+      <itunes:duration>00:20:30</itunes:duration>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
       <title>📚 上級講義 第2回／全5回：表面エネルギーバランスと放射</title>
       <description>上級・都市微気候 講義シリーズ 第2回／全5回
 リモートセンシング研究で最も誤解されやすいLSTとTaの乖離を、エネルギーバランスの言葉で厳密に整理する。
