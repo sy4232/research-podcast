@@ -1,5 +1,20 @@
 [
   {
+    "title": "📚 上級講義 第3回／全5回：CFDによる都市微気候シミュレーション",
+    "desc": "上級・都市微気候 講義シリーズ 第3回／全5回\nFluent等での実務に直結する回。設定の一つ一つが、どの物理を捨てているかを言語化する。\n\n扱う内容：\n・RANSとLESの選択：定常近似がいつ許され、いつ致命的か（剥離、非定常渦、キャニオン換気）\n・乱流モデルの含意：標準k-εが都市形状で持つ既知のバイアスと修正の考え方\n・格子設計のベストプラクティス（AIJ／COST 732系）：建物あたりセル数、鉛直第一層、計算領域とブロッケージ比\n・流入境界条件：鉛直プロファイルの整合性とhorizontal homogeneity問題\n・検証と感度解析：風洞・実測との比較指標、hit rate、『合った』だけでは不十分な理由\n・浮力と熱をどう入れるか：等温CFDの限界と放射・熱収支との結合",
+    "date": "2026-07-31T23:00:20.847535+00:00",
+    "audio_rel": "audio/lecture/lecture-03-2026-07-31.mp3",
+    "file": "lecture-03-2026-07-31.mp3",
+    "bytes": 4566453,
+    "duration": 598.32,
+    "guid": "lecture-03",
+    "series": "📚 上級講義",
+    "season": 4,
+    "lecture_numbers": [
+      3
+    ]
+  },
+  {
     "title": "🏛️ 政策ウォッチ｜2026-07-31：Using AI to help with heat safety ほか",
     "desc": "今日の都市気候・政策ウォッチ：\n・Using AI to help with heat safety（miragenews.com, nydailynews.com）\n・Extreme heat threatens Nepal economy as warming accelerates（asianews.network）\n・Quốc gia này đã thay thế nhựa đường bằng loại cốt liệu giảm nhiệt cực đỉnh : Lốp xe cũng phải cảm ơn（autopro.com.vn）\n・What Britain air - con row tells us about fighting climate change（bbc.co.uk, bbc.com）\n・Cooling Centers Run on Rules That Differ by County , and the Real Gap Is Closing Time（azfamily.com, baltimoresun.com, kold.com, medicaldaily.com）",
     "date": "2026-07-31T05:32:04.178053+00:00",
