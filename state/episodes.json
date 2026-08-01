@@ -1,5 +1,22 @@
 [
   {
+    "title": "🎓 論文Q&A｜2026-08-01：Coupling urban microclimate and bu ほか2本",
+    "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] Coupling urban microclimate and building energy modelling: An open-source parametric workflow\n・[新着] Comparison of Machine Learning and Physics-Based Approaches for Thermal InfraredSimulation for Urban Digital Twins\n・[新着] High-Resolution Downscaling of Urban Land Surface Temperature via Machine Learning",
+    "date": "2026-08-01T23:09:51.127554+00:00",
+    "audio_rel": "audio/papers/papers-2026-08-01.mp3",
+    "file": "papers-2026-08-01.mp3",
+    "bytes": 9678429,
+    "duration": 1226.52,
+    "guid": "papers-papers-2026-08-01.mp3",
+    "series": "🎓 論文Q&A",
+    "season": 1,
+    "paper_ids": [
+      "https://openalex.org/W7171934692",
+      "https://openalex.org/W7171773611",
+      "https://openalex.org/W7171823774"
+    ]
+  },
+  {
     "title": "📚 上級講義 第3回／全5回：CFDによる都市微気候シミュレーション",
     "desc": "上級・都市微気候 講義シリーズ 第3回／全5回\nFluent等での実務に直結する回。設定の一つ一つが、どの物理を捨てているかを言語化する。\n\n扱う内容：\n・RANSとLESの選択：定常近似がいつ許され、いつ致命的か（剥離、非定常渦、キャニオン換気）\n・乱流モデルの含意：標準k-εが都市形状で持つ既知のバイアスと修正の考え方\n・格子設計のベストプラクティス（AIJ／COST 732系）：建物あたりセル数、鉛直第一層、計算領域とブロッケージ比\n・流入境界条件：鉛直プロファイルの整合性とhorizontal homogeneity問題\n・検証と感度解析：風洞・実測との比較指標、hit rate、『合った』だけでは不十分な理由\n・浮力と熱をどう入れるか：等温CFDの限界と放射・熱収支との結合",
     "date": "2026-07-31T23:00:20.847535+00:00",
