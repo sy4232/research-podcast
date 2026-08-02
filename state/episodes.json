@@ -1,5 +1,22 @@
 [
   {
+    "title": "🏛️ 政策ウォッチ｜2026-08-02：Boston’s $10B coastal resilience infrast ほか",
+    "desc": "今日の都市気候・政策ウォッチ：\n・Boston’s $10B coastal resilience infrastructure plan wins access to billions in federal funding（Smart Cities Dive - Latest News）\n・Seattle peels back environmental review appeals in effort to ramp up housing development（Smart Cities Dive - Latest News）\n・AI adoption by local governments outpaces public trust: survey（Smart Cities Dive - Latest News）",
+    "date": "2026-08-02T05:22:38.947904+00:00",
+    "audio_rel": "audio/news/news-2026-08-02.mp3",
+    "file": "news-2026-08-02.mp3",
+    "bytes": 3088869,
+    "duration": 382.96,
+    "guid": "news-news-2026-08-02.mp3",
+    "series": "🏛️ 政策ウォッチ",
+    "season": 2,
+    "story_urls": [
+      "https://www.smartcitiesdive.com/news/boston-10b-coastal-resilience-infrastructure-plan-usace/826602/",
+      "https://www.smartcitiesdive.com/news/seattle-environmental-review-appeals-housing-reform/826707/",
+      "https://www.smartcitiesdive.com/news/ai-adoption-by-local-governments-outpaces-public-trust-survey/826483/"
+    ]
+  },
+  {
     "title": "🎓 論文Q&A｜2026-08-01：Coupling urban microclimate and bu ほか2本",
     "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] Coupling urban microclimate and building energy modelling: An open-source parametric workflow\n・[新着] Comparison of Machine Learning and Physics-Based Approaches for Thermal InfraredSimulation for Urban Digital Twins\n・[新着] High-Resolution Downscaling of Urban Land Surface Temperature via Machine Learning",
     "date": "2026-08-01T23:09:51.127554+00:00",
