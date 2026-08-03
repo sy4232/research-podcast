@@ -1,5 +1,25 @@
 [
   {
+    "title": "🎯 BUCSS登壇者｜Negin Nazarian（University of New South Wales）",
+    "desc": "BUCSS登壇者 Negin Nazarian（University of New South Wales）の研究を批判的な質疑で読み解きます。\n高解像度都市気候モデリング・都市キャノピーパラメタリゼーション・熱と風／CFD出身・IPCC AR7\n\n今回の論文：\n・UrbanTALES: A Large-Eddy Simulation Dataset for Urban Canopy Layer Turbulence and Parameterization\n・Machine learning predicts pedestrian wind flow from urban morphology and prevailing wind direction\n・Prioritizing urban heat adaptation infrastructure based on multiple outcomes: Comfort, health, and energy",
+    "date": "2026-08-03T23:02:34.502470+00:00",
+    "audio_rel": "audio/bucss/bucss-negin-nazarian-2026-08-03.mp3",
+    "file": "bucss-negin-nazarian-2026-08-03.mp3",
+    "bytes": 10129053,
+    "duration": 1290.36,
+    "guid": "bucss-negin-nazarian",
+    "series": "🎯 BUCSS登壇者",
+    "season": 3,
+    "paper_ids": [
+      "https://openalex.org/W4415405142",
+      "https://openalex.org/W4408515899",
+      "https://openalex.org/W4410085482"
+    ],
+    "bucss_lecturers": [
+      "Negin Nazarian"
+    ]
+  },
+  {
     "title": "🎓 論文Q&A｜2026-08-02：A hybrid AI-physical modelling fra ほか2本",
     "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] A hybrid AI-physical modelling framework for city-wide heat stress assessment\n・[新着] Urban high-rise compact form amplifies humid heat risk from vegetation transpiration\n・[新着] Global metrics quantify shifts in chronic heat",
     "date": "2026-08-02T23:10:20.453731+00:00",

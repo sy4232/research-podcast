@@ -9,6 +9,21 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Science"/>
     <item>
+      <title>🎯 BUCSS登壇者｜Negin Nazarian（University of New South Wales）</title>
+      <description>BUCSS登壇者 Negin Nazarian（University of New South Wales）の研究を批判的な質疑で読み解きます。
+高解像度都市気候モデリング・都市キャノピーパラメタリゼーション・熱と風／CFD出身・IPCC AR7
+
+今回の論文：
+・UrbanTALES: A Large-Eddy Simulation Dataset for Urban Canopy Layer Turbulence and Parameterization
+・Machine learning predicts pedestrian wind flow from urban morphology and prevailing wind direction
+・Prioritizing urban heat adaptation infrastructure based on multiple outcomes: Comfort, health, and energy</description>
+      <pubDate>Mon, 03 Aug 2026 23:02:34 +0000</pubDate>
+      <enclosure url="https://sy4232.github.io/research-podcast/audio/bucss/bucss-negin-nazarian-2026-08-03.mp3" length="10129053" type="audio/mpeg"/>
+      <guid isPermaLink="false">bucss-negin-nazarian</guid>
+      <itunes:duration>00:21:30</itunes:duration>
+      <itunes:season>3</itunes:season>
+    </item>
+    <item>
       <title>🎓 論文Q&amp;A｜2026-08-02：A hybrid AI-physical modelling fra ほか2本</title>
       <description>批判的な質疑応答で読み解く今回の論文：
 ・[新着] A hybrid AI-physical modelling framework for city-wide heat stress assessment
