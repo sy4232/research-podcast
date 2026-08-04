@@ -1,5 +1,22 @@
 [
   {
+    "title": "🎓 論文Q&A｜2026-08-04：Enhanced solar radiation diffusion ほか2本",
+    "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] Enhanced solar radiation diffusion in the urban environment: A case study over Houston, Texas\n・[新着] Climate-Adaptive Urban Planning: Quantitative Assessment of Drought Impact and Practical Strategies for Climate-Resilient Urban Green Spaces\n・[新着] Direct thermal enhancement dominates over emission-mediated pathways in heatwave-induced O <sub>3</sub> and SOA increases across China",
+    "date": "2026-08-04T23:20:28.339459+00:00",
+    "audio_rel": "audio/papers/papers-2026-08-04.mp3",
+    "file": "papers-2026-08-04.mp3",
+    "bytes": 10244901,
+    "duration": 1299.0,
+    "guid": "papers-papers-2026-08-04.mp3",
+    "series": "🎓 論文Q&A",
+    "season": 1,
+    "paper_ids": [
+      "https://openalex.org/W7172137385",
+      "https://openalex.org/W7172285825",
+      "https://openalex.org/W7172296126"
+    ]
+  },
+  {
     "title": "📚 上級講義 第4回／全5回：植生・水・潜熱 ― 蒸発散冷却の物理",
     "desc": "上級・都市微気候 講義シリーズ 第4回／全5回\n博士研究の核心と重なる回。ET冷却がいつ効き、いつ効かないかを物理から詰める。\n\n扱う内容：\n・Penman-Monteithと、その都市適用における前提の崩れ\n・気孔抵抗・キャノピー抵抗と、土壌水分・飽差(VPD)による制御（水がなければ冷えない）\n・葉面積密度(LAD)と樹冠の多孔質体モデル：抗力係数、乱流の生成・消散の追加項\n・顕熱／潜熱の分配（ボーエン比）が都市形態と灌漑でどう変わるか\n・冷却の到達距離を決める要因：移流、風速、湿度、樹林規模\n・日射遮蔽(shading)と蒸発散(ET)の寄与分離：測定・モデル双方での難しさ",
     "date": "2026-08-04T23:03:08.256817+00:00",
