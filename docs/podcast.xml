@@ -9,6 +9,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Science"/>
     <item>
+      <title>📚 上級講義 第4回／全5回：植生・水・潜熱 ― 蒸発散冷却の物理</title>
+      <description>上級・都市微気候 講義シリーズ 第4回／全5回
+博士研究の核心と重なる回。ET冷却がいつ効き、いつ効かないかを物理から詰める。
+
+扱う内容：
+・Penman-Monteithと、その都市適用における前提の崩れ
+・気孔抵抗・キャノピー抵抗と、土壌水分・飽差(VPD)による制御（水がなければ冷えない）
+・葉面積密度(LAD)と樹冠の多孔質体モデル：抗力係数、乱流の生成・消散の追加項
+・顕熱／潜熱の分配（ボーエン比）が都市形態と灌漑でどう変わるか
+・冷却の到達距離を決める要因：移流、風速、湿度、樹林規模
+・日射遮蔽(shading)と蒸発散(ET)の寄与分離：測定・モデル双方での難しさ</description>
+      <pubDate>Tue, 04 Aug 2026 23:03:08 +0000</pubDate>
+      <enclosure url="https://sy4232.github.io/research-podcast/audio/lecture/lecture-04-2026-08-04.mp3" length="5468781" type="audio/mpeg"/>
+      <guid isPermaLink="false">lecture-04</guid>
+      <itunes:duration>00:11:37</itunes:duration>
+      <itunes:season>4</itunes:season>
+    </item>
+    <item>
       <title>🎯 BUCSS登壇者｜Negin Nazarian（University of New South Wales）</title>
       <description>BUCSS登壇者 Negin Nazarian（University of New South Wales）の研究を批判的な質疑で読み解きます。
 高解像度都市気候モデリング・都市キャノピーパラメタリゼーション・熱と風／CFD出身・IPCC AR7
