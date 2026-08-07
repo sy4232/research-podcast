@@ -1,5 +1,20 @@
 [
   {
+    "title": "📚 上級講義 第5回／全5回：人体熱ストレスと屋内外連成 ― 応用と政策への翻訳",
+    "desc": "上級・都市微気候 講義シリーズ 第5回／全5回\n『屋外CFDと屋内熱環境の連成』という知識ギャップを、シリーズの締めとして正面から扱う。\n\n扱う内容：\n・平均放射温度(MRT)の算出：6方向放射計、球温度計、モデル推定の差と誤差\n・熱指標の比較：UTCI、PET、WBGTが何を仮定し、どこで乖離するか\n・個人暴露と固定点観測のギャップ、移動計測・ウェアラブルの可能性\n・屋内外連成：ファサードの対流熱伝達率(CHTC)、微気候→建物負荷→屋内熱環境の連鎖と未解決問題\n・緩和策の評価：冷却効果をどの指標・どの空間スケールで測れば政策判断に耐えるか\n・科学から政策へ：不確実性を保ったまま意思決定に渡す作法",
+    "date": "2026-08-07T22:34:47.787411+00:00",
+    "audio_rel": "audio/lecture/lecture-05-2026-08-07.mp3",
+    "file": "lecture-05-2026-08-07.mp3",
+    "bytes": 5263605,
+    "duration": 690.36,
+    "guid": "lecture-05",
+    "series": "📚 上級講義",
+    "season": 4,
+    "lecture_numbers": [
+      5
+    ]
+  },
+  {
     "title": "🏛️ 政策ウォッチ｜2026-08-07：$20B in federal climate grants unblocked ほか",
     "desc": "今日の都市気候・政策ウォッチ：\n・$20B in federal climate grants unblocked by appeals court（Smart Cities Dive - Latest News）\n・Smaller communities wary of proposed federal grant overhaul（Smart Cities Dive - Latest News）",
     "date": "2026-08-07T04:25:20.310621+00:00",

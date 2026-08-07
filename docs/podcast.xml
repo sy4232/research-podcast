@@ -9,6 +9,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Science"/>
     <item>
+      <title>📚 上級講義 第5回／全5回：人体熱ストレスと屋内外連成 ― 応用と政策への翻訳</title>
+      <description>上級・都市微気候 講義シリーズ 第5回／全5回
+『屋外CFDと屋内熱環境の連成』という知識ギャップを、シリーズの締めとして正面から扱う。
+
+扱う内容：
+・平均放射温度(MRT)の算出：6方向放射計、球温度計、モデル推定の差と誤差
+・熱指標の比較：UTCI、PET、WBGTが何を仮定し、どこで乖離するか
+・個人暴露と固定点観測のギャップ、移動計測・ウェアラブルの可能性
+・屋内外連成：ファサードの対流熱伝達率(CHTC)、微気候→建物負荷→屋内熱環境の連鎖と未解決問題
+・緩和策の評価：冷却効果をどの指標・どの空間スケールで測れば政策判断に耐えるか
+・科学から政策へ：不確実性を保ったまま意思決定に渡す作法</description>
+      <pubDate>Fri, 07 Aug 2026 22:34:47 +0000</pubDate>
+      <enclosure url="https://sy4232.github.io/research-podcast/audio/lecture/lecture-05-2026-08-07.mp3" length="5263605" type="audio/mpeg"/>
+      <guid isPermaLink="false">lecture-05</guid>
+      <itunes:duration>00:11:30</itunes:duration>
+      <itunes:season>4</itunes:season>
+    </item>
+    <item>
       <title>🏛️ 政策ウォッチ｜2026-08-07：$20B in federal climate grants unblocked ほか</title>
       <description>今日の都市気候・政策ウォッチ：
 ・$20B in federal climate grants unblocked by appeals court（Smart Cities Dive - Latest News）
