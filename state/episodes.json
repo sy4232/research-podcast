@@ -1,5 +1,25 @@
 [
   {
+    "title": "🎯 BUCSS登壇者｜Gert-Jan Steeneveld（Wageningen University）",
+    "desc": "BUCSS登壇者 Gert-Jan Steeneveld（Wageningen University）の研究を批判的な質疑で読み解きます。\n都市微気候・PALM4U/ENVI-met/WRF・屋内気候観測・科学と政策の橋渡し\n\n今回の論文：\n・Performance of urban climate-responsive design interventions in combining climate adaptation and mitigation\n・Unravelling indoor temperature response to summer heat through long‐term crowdsourced observations in Dutch residences\n・Seasonal dependence of the urban heat island on the street canyon aspect ratio",
+    "date": "2026-08-07T01:45:40.966066+00:00",
+    "audio_rel": "audio/bucss/bucss-gert-jan-steeneveld-2026-08-07.mp3",
+    "file": "bucss-gert-jan-steeneveld-2026-08-07.mp3",
+    "bytes": 8989701,
+    "duration": 1146.12,
+    "guid": "bucss-gert-jan-steeneveld",
+    "series": "🎯 BUCSS登壇者",
+    "season": 3,
+    "paper_ids": [
+      "https://openalex.org/W4361213824",
+      "https://openalex.org/W4416066224",
+      "https://openalex.org/W2156022589"
+    ],
+    "bucss_lecturers": [
+      "Gert-Jan Steeneveld"
+    ]
+  },
+  {
     "title": "🎓 論文Q&A｜2026-08-04：Enhanced solar radiation diffusion ほか2本",
     "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] Enhanced solar radiation diffusion in the urban environment: A case study over Houston, Texas\n・[新着] Climate-Adaptive Urban Planning: Quantitative Assessment of Drought Impact and Practical Strategies for Climate-Resilient Urban Green Spaces\n・[新着] Direct thermal enhancement dominates over emission-mediated pathways in heatwave-induced O <sub>3</sub> and SOA increases across China",
     "date": "2026-08-04T23:20:28.339459+00:00",

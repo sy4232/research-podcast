@@ -9,6 +9,21 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Science"/>
     <item>
+      <title>🎯 BUCSS登壇者｜Gert-Jan Steeneveld（Wageningen University）</title>
+      <description>BUCSS登壇者 Gert-Jan Steeneveld（Wageningen University）の研究を批判的な質疑で読み解きます。
+都市微気候・PALM4U/ENVI-met/WRF・屋内気候観測・科学と政策の橋渡し
+
+今回の論文：
+・Performance of urban climate-responsive design interventions in combining climate adaptation and mitigation
+・Unravelling indoor temperature response to summer heat through long‐term crowdsourced observations in Dutch residences
+・Seasonal dependence of the urban heat island on the street canyon aspect ratio</description>
+      <pubDate>Fri, 07 Aug 2026 01:45:40 +0000</pubDate>
+      <enclosure url="https://sy4232.github.io/research-podcast/audio/bucss/bucss-gert-jan-steeneveld-2026-08-07.mp3" length="8989701" type="audio/mpeg"/>
+      <guid isPermaLink="false">bucss-gert-jan-steeneveld</guid>
+      <itunes:duration>00:19:06</itunes:duration>
+      <itunes:season>3</itunes:season>
+    </item>
+    <item>
       <title>🎓 論文Q&amp;A｜2026-08-04：Enhanced solar radiation diffusion ほか2本</title>
       <description>批判的な質疑応答で読み解く今回の論文：
 ・[新着] Enhanced solar radiation diffusion in the urban environment: A case study over Houston, Texas
