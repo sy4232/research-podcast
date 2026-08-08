@@ -9,6 +9,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Science"/>
     <item>
+      <title>🎓 論文Q&amp;A｜2026-08-08：Spatial mismatch between heat expo ほか2本</title>
+      <description>批判的な質疑応答で読み解く今回の論文：
+・[新着] Spatial mismatch between heat exposure and cooling accessibility in the Middle Yangtze River Urban Agglomeration
+・[新着] Urban expansion moderates warming yet intensifies absolute heat exposure across rapidly growing Arabian Peninsula cities
+・[新着] Nonlinear and inequality-related heterogeneity in green cooling across Chinese urban agglomerations: a SHAP-based random forest analysis</description>
+      <pubDate>Sat, 08 Aug 2026 22:44:51 +0000</pubDate>
+      <enclosure url="https://sy4232.github.io/research-podcast/audio/papers/papers-2026-08-08.mp3" length="10544565" type="audio/mpeg"/>
+      <guid isPermaLink="false">papers-papers-2026-08-08.mp3</guid>
+      <itunes:duration>00:22:08</itunes:duration>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
       <title>📚 上級講義 第5回／全5回：人体熱ストレスと屋内外連成 ― 応用と政策への翻訳</title>
       <description>上級・都市微気候 講義シリーズ 第5回／全5回
 『屋外CFDと屋内熱環境の連成』という知識ギャップを、シリーズの締めとして正面から扱う。
