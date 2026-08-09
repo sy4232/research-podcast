@@ -1,5 +1,22 @@
 [
   {
+    "title": "🎓 論文Q&A｜2026-08-09：Machine learning-based fusion and  ほか2本",
+    "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] Machine learning-based fusion and downscaling of multi-sensor satellite data for urban heat island analysis in Damascus, Syria\n・[新着] Spatiotemporal Evolution and Component Contributions to Urban Heat–Humidity Risk Changes in Sichuan Province, China, from 2000 to 2024\n・[新着] Multi-Objective Optimization of Building Performance for University Dormitories in Cold Climate Regions During Winter",
+    "date": "2026-08-09T22:46:24.453406+00:00",
+    "audio_rel": "audio/papers/papers-2026-08-09.mp3",
+    "file": "papers-2026-08-09.mp3",
+    "bytes": 9880965,
+    "duration": 1258.36,
+    "guid": "papers-papers-2026-08-09.mp3",
+    "series": "🎓 論文Q&A",
+    "season": 1,
+    "paper_ids": [
+      "https://openalex.org/W7201830565",
+      "https://openalex.org/W7196966688",
+      "https://openalex.org/W7196989828"
+    ]
+  },
+  {
     "title": "🎓 論文Q&A｜2026-08-08：Spatial mismatch between heat expo ほか2本",
     "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] Spatial mismatch between heat exposure and cooling accessibility in the Middle Yangtze River Urban Agglomeration\n・[新着] Urban expansion moderates warming yet intensifies absolute heat exposure across rapidly growing Arabian Peninsula cities\n・[新着] Nonlinear and inequality-related heterogeneity in green cooling across Chinese urban agglomerations: a SHAP-based random forest analysis",
     "date": "2026-08-08T22:44:51.664471+00:00",
