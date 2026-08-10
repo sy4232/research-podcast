@@ -1,5 +1,25 @@
 [
   {
+    "title": "🎯 BUCSS登壇者｜Ferdinand Briegel（Karlsruhe Institute of Technology）",
+    "desc": "BUCSS登壇者 Ferdinand Briegel（Karlsruhe Institute of Technology）の研究を批判的な質疑で読み解きます。\n歩行者熱ストレスの高解像度モデリング・メソ〜マイクロのハイブリッド化\n\n今回の論文：\n・Deep learning enables city-wide climate projections of street-level heat stress\n・Optimizing urban greening and densification in the context of outdoor heat: Opportunities for AI-supported urban adaptation\n・Modelling long-term thermal comfort conditions in urban environments using a deep convolutional encoder-decoder as a computational shortcut",
+    "date": "2026-08-10T22:37:38.926001+00:00",
+    "audio_rel": "audio/bucss/bucss-ferdinand-briegel-2026-08-10.mp3",
+    "file": "bucss-ferdinand-briegel-2026-08-10.mp3",
+    "bytes": 10280061,
+    "duration": 1294.36,
+    "guid": "bucss-ferdinand-briegel",
+    "series": "🎯 BUCSS登壇者",
+    "season": 3,
+    "paper_ids": [
+      "https://openalex.org/W4413046679",
+      "https://openalex.org/W7117726243",
+      "https://openalex.org/W4311270863"
+    ],
+    "bucss_lecturers": [
+      "Ferdinand Briegel"
+    ]
+  },
+  {
     "title": "🎓 論文Q&A｜2026-08-09：Machine learning-based fusion and  ほか2本",
     "desc": "批判的な質疑応答で読み解く今回の論文：\n・[新着] Machine learning-based fusion and downscaling of multi-sensor satellite data for urban heat island analysis in Damascus, Syria\n・[新着] Spatiotemporal Evolution and Component Contributions to Urban Heat–Humidity Risk Changes in Sichuan Province, China, from 2000 to 2024\n・[新着] Multi-Objective Optimization of Building Performance for University Dormitories in Cold Climate Regions During Winter",
     "date": "2026-08-09T22:46:24.453406+00:00",
