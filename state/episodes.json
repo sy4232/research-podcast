@@ -1,5 +1,20 @@
 [
   {
+    "title": "🌍 気候モデリング講義 第1回／全15回：スケールの階層と“つなぎ目”",
+    "desc": "地球・都市 気候モデリング講義 第1回／全15回\nシリーズ全体の“地図”。以降のCFD・観測・ダウンスケーリングすべての前提になる回。\n\n扱う内容：\n・3つのスケールの守備範囲：地球ESM/GCM（〜100km）、メソWRF/RCM（〜数km）、ローカルLES/CFD（〜m）\n・境界条件のバケツリレー：上のスケールが下のスケールの“入力”になるという入れ子構造\n・つなぎ目＝ダウンスケーリング（力学的 vs 統計的）の役割と、そこで失われる情報\n・グレーゾーン／terra incognita（1〜数km：対流も都市キャノピーも“解くでもパラメタライズでもない”中途半端）\n・何がどのスケールで決まるか：総観場・都市ヒートアイランド・街区の風と暴露の切り分け\n・実務の合言葉『いま自分はどのスケールを、どの解像度で解いているのか』",
+    "date": "2026-08-17T01:29:19.307670+00:00",
+    "audio_rel": "audio/climate/climate-01-2026-08-17.mp3",
+    "file": "climate-01-2026-08-17.mp3",
+    "bytes": 4047045,
+    "duration": 537.12,
+    "guid": "climate-01",
+    "series": "🌍 気候モデリング講義",
+    "season": 5,
+    "climate_numbers": [
+      1
+    ]
+  },
+  {
     "title": "🎯 BUCSS登壇者｜Ferdinand Briegel（Karlsruhe Institute of Technology）",
     "desc": "BUCSS登壇者 Ferdinand Briegel（Karlsruhe Institute of Technology）の研究を批判的な質疑で読み解きます。\n歩行者熱ストレスの高解像度モデリング・メソ〜マイクロのハイブリッド化\n\n今回の論文：\n・Deep learning enables city-wide climate projections of street-level heat stress\n・Optimizing urban greening and densification in the context of outdoor heat: Opportunities for AI-supported urban adaptation\n・Modelling long-term thermal comfort conditions in urban environments using a deep convolutional encoder-decoder as a computational shortcut",
     "date": "2026-08-10T22:37:38.926001+00:00",

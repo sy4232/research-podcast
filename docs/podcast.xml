@@ -9,6 +9,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Science"/>
     <item>
+      <title>🌍 気候モデリング講義 第1回／全15回：スケールの階層と“つなぎ目”</title>
+      <description>地球・都市 気候モデリング講義 第1回／全15回
+シリーズ全体の“地図”。以降のCFD・観測・ダウンスケーリングすべての前提になる回。
+
+扱う内容：
+・3つのスケールの守備範囲：地球ESM/GCM（〜100km）、メソWRF/RCM（〜数km）、ローカルLES/CFD（〜m）
+・境界条件のバケツリレー：上のスケールが下のスケールの“入力”になるという入れ子構造
+・つなぎ目＝ダウンスケーリング（力学的 vs 統計的）の役割と、そこで失われる情報
+・グレーゾーン／terra incognita（1〜数km：対流も都市キャノピーも“解くでもパラメタライズでもない”中途半端）
+・何がどのスケールで決まるか：総観場・都市ヒートアイランド・街区の風と暴露の切り分け
+・実務の合言葉『いま自分はどのスケールを、どの解像度で解いているのか』</description>
+      <pubDate>Mon, 17 Aug 2026 01:29:19 +0000</pubDate>
+      <enclosure url="https://sy4232.github.io/research-podcast/audio/climate/climate-01-2026-08-17.mp3" length="4047045" type="audio/mpeg"/>
+      <guid isPermaLink="false">climate-01</guid>
+      <itunes:duration>00:08:57</itunes:duration>
+      <itunes:season>5</itunes:season>
+    </item>
+    <item>
       <title>🎯 BUCSS登壇者｜Ferdinand Briegel（Karlsruhe Institute of Technology）</title>
       <description>BUCSS登壇者 Ferdinand Briegel（Karlsruhe Institute of Technology）の研究を批判的な質疑で読み解きます。
 歩行者熱ストレスの高解像度モデリング・メソ〜マイクロのハイブリッド化
