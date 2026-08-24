@@ -9,6 +9,23 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Science"/>
     <item>
+      <title>🌍 気候モデリング講義 第2回／全15回：都市CFD①：RANS vs LES、何を捨て何を解くか</title>
+      <description>地球・都市 気候モデリング講義 第2回／全15回
+都市微気候の主戦場＝建物スケールの流れ。設定の一つ一つが“どの物理を捨てているか”を言語化する。
+
+扱う内容：
+・RANS（アンサンブル平均・定常近似）と LES（渦を直接解く）の本質的な違い
+・定常近似がいつ許され、いつ致命的か：剥離、非定常なキャニオン換気、間欠的乱流
+・標準k-εが都市形状で持つ既知バイアスと、realizable/RNG/RSM などの修正の考え方
+・計算コストの現実：LESは格子・時間刻みで桁違い、いつ払う価値があるか
+・『何を知りたいか』で選ぶ：平均風か、ピーク暴露か、換気の間欠性か</description>
+      <pubDate>Mon, 24 Aug 2026 01:30:43 +0000</pubDate>
+      <enclosure url="https://sy4232.github.io/research-podcast/audio/climate/climate-02-2026-08-24.mp3" length="3861909" type="audio/mpeg"/>
+      <guid isPermaLink="false">climate-02</guid>
+      <itunes:duration>00:08:29</itunes:duration>
+      <itunes:season>5</itunes:season>
+    </item>
+    <item>
       <title>🌍 気候モデリング講義 第1回／全15回：スケールの階層と“つなぎ目”</title>
       <description>地球・都市 気候モデリング講義 第1回／全15回
 シリーズ全体の“地図”。以降のCFD・観測・ダウンスケーリングすべての前提になる回。
