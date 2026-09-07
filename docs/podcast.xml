@@ -9,6 +9,23 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Science"/>
     <item>
+      <title>🌍 気候モデリング講義 第4回／全15回：植生・水・潜熱 ― 蒸発散冷却の物理</title>
+      <description>地球・都市 気候モデリング講義 第4回／全15回
+『緑を増やせば涼しい』がどこまで本当か。ET冷却が効く条件・効かない条件を物理で詰める。
+
+扱う内容：
+・表面エネルギーバランス Q*=QH+QE+ΔQS+QF と、ボーエン比が日変化の位相を決める理由
+・Penman-Monteith と、その都市適用での前提の崩れ
+・気孔抵抗・キャノピー抵抗、土壌水分・飽差(VPD)による制御（“水がなければ冷えない”）
+・樹冠の多孔質体モデル：葉面積密度(LAD)、抗力、乱流の生成・消散の追加項
+・日射遮蔽(shading) と 蒸発散(ET) の寄与分離の難しさ、冷却の到達距離（移流・風速・樹林規模）</description>
+      <pubDate>Mon, 07 Sep 2026 03:39:28 +0000</pubDate>
+      <enclosure url="https://sy4232.github.io/research-podcast/audio/climate/climate-04-2026-09-07.mp3" length="4265325" type="audio/mpeg"/>
+      <guid isPermaLink="false">climate-04</guid>
+      <itunes:duration>00:09:28</itunes:duration>
+      <itunes:season>5</itunes:season>
+    </item>
+    <item>
       <title>🌍 気候モデリング講義 第3回／全15回：都市CFD②：メッシュ・境界条件・検証</title>
       <description>地球・都市 気候モデリング講義 第3回／全15回
 CFDは“回れば正しい”ではない。再現性と検証がなければ、ただの綺麗な絵。
