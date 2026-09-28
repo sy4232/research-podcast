@@ -9,6 +9,23 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Science"/>
     <item>
+      <title>🌍 気候モデリング講義 第7回／全15回：メソスケール① ― WRF/RCMと都市</title>
+      <description>地球・都市 気候モデリング講義 第7回／全15回
+都市ヒートアイランドを数十km四方で解く。ここでの選択が局地スケールの入力になる。
+
+扱う内容：
+・静力学 vs 非静力学、対流許容(convection-permitting)解像度の意味
+・境界層スキーム（局所 vs 非局所、YSU/MYNN系）の含意
+・ネスティング、スピンアップ、ナッジングの実務
+・都市を入れる（WRF-urban）と地表面スキームとの結合
+・グレーゾーン再訪：対流を“解く”でも“パラメタライズ”でもない中途半端さ</description>
+      <pubDate>Mon, 28 Sep 2026 04:26:57 +0000</pubDate>
+      <enclosure url="https://sy4232.github.io/research-podcast/audio/climate/climate-07-2026-09-28.mp3" length="4567101" type="audio/mpeg"/>
+      <guid isPermaLink="false">climate-07</guid>
+      <itunes:duration>00:10:09</itunes:duration>
+      <itunes:season>5</itunes:season>
+    </item>
+    <item>
       <title>🌍 気候モデリング講義 第6回／全15回：LCZとパラメタリゼーション ― スケールの橋</title>
       <description>地球・都市 気候モデリング講義 第6回／全15回
 CFDの物理をそのまま全球には入れられない。“効かせ方”＝パラメタリゼーションが橋になる。
