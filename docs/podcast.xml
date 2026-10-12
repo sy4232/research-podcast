@@ -9,6 +9,23 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Science"/>
     <item>
+      <title>🌍 気候モデリング講義 第9回／全15回：地球スケール① ― ESM/GCMと陸-大気結合</title>
+      <description>地球・都市 気候モデリング講義 第9回／全15回
+すべての境界条件の“親玉”。ここの不確実性が下流のすべてに効いてくる。
+
+扱う内容：
+・大気大循環の骨格と格子、力学コアと物理過程の分担
+・陸面モデル（土壌水分・植生・表面エネルギーバランス）と大気の双方向結合
+・パラメタリゼーション総覧：対流、雲、境界層、放射
+・都市は“点”にすらならない現実と、それでも下流に効く理由
+・CMIP と排出シナリオ(SSP)の位置づけ</description>
+      <pubDate>Mon, 12 Oct 2026 05:04:12 +0000</pubDate>
+      <enclosure url="https://sy4232.github.io/research-podcast/audio/climate/climate-09-2026-10-12.mp3" length="4424757" type="audio/mpeg"/>
+      <guid isPermaLink="false">climate-09</guid>
+      <itunes:duration>00:09:52</itunes:duration>
+      <itunes:season>5</itunes:season>
+    </item>
+    <item>
       <title>🌍 気候モデリング講義 第8回／全15回：メソスケール② ― ダウンスケーリング（力学 vs 統計）</title>
       <description>地球・都市 気候モデリング講義 第8回／全15回
 全球→街区の距離をどう埋めるか。研究の核心に最も近い回。
