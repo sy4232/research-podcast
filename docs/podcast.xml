@@ -9,6 +9,23 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Science"/>
     <item>
+      <title>🌍 気候モデリング講義 第12回／全15回：観測② ― LST≠気温、surface-to-society</title>
+      <description>地球・都市 気候モデリング講義 第12回／全15回
+リモセン研究者が最も足をすくわれる論点。LSTの“使いどころ”を正面から扱う。
+
+扱う内容：
+・LST（表面温度）と Ta（気温）と Tmrt（放射）の物理的な違い
+・SUHI（表面ヒートアイランド）と AUHI（気温ヒートアイランド）がずれる理由
+・『cooling pixels ≠ cooling people』：表面が冷えても人が涼しいとは限らない
+・LSTが正当に使える場面（表面エネルギー収支、モデルの入力/検証、表面介入の評価、放射/MRT寄与）
+・LSTを使うべきでない場面（人口の熱暴露・ハザードの代理）と、実務での正しい主張の仕方</description>
+      <pubDate>Mon, 02 Nov 2026 05:04:49 +0000</pubDate>
+      <enclosure url="https://sy4232.github.io/research-podcast/audio/climate/climate-12-2026-11-02.mp3" length="3910412" type="audio/mpeg"/>
+      <guid isPermaLink="false">climate-12</guid>
+      <itunes:duration>00:08:43</itunes:duration>
+      <itunes:season>5</itunes:season>
+    </item>
+    <item>
       <title>🌍 気候モデリング講義 第11回／全15回：観測① ― 熱リモートセンシングとLSTリトリーバル</title>
       <description>地球・都市 気候モデリング講義 第11回／全15回
 衛星の温度は便利だが誤解の温床。まず“何を見ているのか”を正確に。
